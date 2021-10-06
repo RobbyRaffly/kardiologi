@@ -122,13 +122,13 @@ class _AddECGsignalPage extends State<AddECGsignal> {
         int _menit = ((jamsek / 60).toInt()) % 60;
 
         String s_jam, s_menit;
-        if (_jam < 10) {
+        if (_jam < 10 && _menit > 9) {
           s_jam = "0" + _jam.toString();
-        }
-        if (_menit < 10) {
+          s_menit = _menit.toString();
+        } else if (_menit < 10 && _jam > 9) {
           s_menit = "0" + _menit.toString();
-        }
-        if ((_jam < 10) && (_menit < 10)) {
+          s_jam = _jam.toString();
+        } else if ((_jam < 10) && (_menit < 10)) {
           s_jam = "0" + _jam.toString();
           s_menit = "0" + _menit.toString();
         } else {

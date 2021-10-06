@@ -2,10 +2,12 @@ import 'package:haloecg/widget/FadeAnimation.dart';
 import 'package:flutter/material.dart';
 import 'package:haloecg/utils/const.dart';
 import 'package:haloecg/utils/text_style.dart';
+import 'package:haloecg/global_var.dart';
 import 'package:haloecg/widget/opaque_imageHome.dart';
 import 'package:haloecg/Login.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:haloecg/Isi_profil.dart';
+import 'package:haloecg/Isi_profil_Dokter.dart';
 
 class SignUp extends StatefulWidget {
   @override
@@ -31,11 +33,17 @@ class _SignUpState extends State<SignUp> {
     if (form.validate()) {
       form.save();
       print("lengkapi profil anda");
-      Navigator.of(context).push(
-        MaterialPageRoute(
-          builder: (context) => IsiProfil(),
-        ),
-      );
+      role == 0
+          ? Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => IsiProfil(),
+              ),
+            )
+          : Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => IsiProfil_Dokter(),
+              ),
+            );
     }
   }
 
@@ -71,11 +79,17 @@ class _SignUpState extends State<SignUp> {
                               children: [
                                 Align(
                                   alignment: Alignment.centerLeft,
-                                  child: Text(
-                                    "Sign Up",
-                                    textAlign: TextAlign.left,
-                                    style: headingTextStyle,
-                                  ),
+                                  child: role == 0
+                                      ? Text(
+                                          "Sign Up Patient",
+                                          textAlign: TextAlign.left,
+                                          style: headingTextStyle,
+                                        )
+                                      : Text(
+                                          "Sign Up Doctor",
+                                          textAlign: TextAlign.left,
+                                          style: headingTextStyle,
+                                        ),
                                 ),
                                 //MyInfo(),
                               ],

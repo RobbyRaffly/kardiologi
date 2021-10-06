@@ -4,8 +4,13 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:intl/intl.dart';
-import 'package:intl/date_symbol_data_local.dart';
+
 import 'package:haloecg/utils/const.dart';
+
+import 'package:haloecg/utils/text_style.dart';
+import 'package:haloecg/widget/Profil_Card.dart';
+import 'package:haloecg/widget/opaque_image.dart';
+import 'package:haloecg/widget/Info_dokter.dart';
 
 class DaftarDokter extends StatefulWidget {
   @override
@@ -35,14 +40,163 @@ class _DaftarDokter extends State<DaftarDokter> {
     });
   }
 
+  Future<void> prof_dokter() {
+    return showDialog<void>(
+        context: context,
+        barrierDismissible: false, //user must tap a button!
+        builder: (BuildContext context) {
+          return Container(
+            margin: EdgeInsets.fromLTRB(30, 50, 30, 50),
+            color: Colors.white,
+            child: profil_dokter(context),
+          );
+        });
+  }
+
+  Widget profil_dokter(BuildContext context) {
+    return MaterialApp(
+        home: Scaffold(
+      body: Stack(
+        children: <Widget>[
+          Column(
+            children: <Widget>[
+              Expanded(
+                flex: 4,
+                child: Stack(
+                  children: <Widget>[
+                    OpaqueImage(
+                      imageUrl: "assets/images/kardiologi.jpg",
+                      //"assets/images/robby.jpg",
+                    ),
+                    SafeArea(
+                      child: Padding(
+                        padding: const EdgeInsets.all(0),
+                        child: Column(
+                          children: [
+                            Row(
+                              children: [
+                                IconButton(
+                                  icon: Icon(Icons.arrow_back),
+                                  onPressed: () {
+                                    Navigator.pop(context);
+                                  },
+                                  color: Colors.white,
+                                  iconSize: 30,
+                                ),
+                                Align(
+                                  alignment: Alignment.centerLeft,
+                                  child: Text(
+                                    "Profil",
+                                    textAlign: TextAlign.left,
+                                    style: headingTextStyle,
+                                  ),
+                                ),
+                              ],
+                            ),
+                            Info_dokter(),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Expanded(
+                flex: 4,
+                child: Container(
+                    color: role == "0"
+                        ? Constants.lightYellow
+                        : Constants.lightGreen,
+                    child: ListView(
+                      scrollDirection: Axis.vertical,
+                      padding: const EdgeInsets.all(8),
+                      children: [
+                        // Column(
+                        //   mainAxisAlignment: MainAxisAlignment.start,
+                        //   crossAxisAlignment: CrossAxisAlignment.end,
+                        //   children: [
+                        ProfilCard(
+                          firstText: "Tanggal \n lahir",
+                          secondText: DateFormat('dd-MM-yyyy')
+                              .format(tanggal_lahir_dok),
+                          icon: Icon(
+                            Icons.calendar_today,
+                            size: 30,
+                          ),
+                          widhh: 0.3,
+                        ),
+
+                        ProfilCard(
+                          firstText: "Email",
+                          secondText: eemail_dok,
+                          icon: Icon(
+                            Icons.email,
+                            size: 30,
+                          ),
+                          widhh: 0.2,
+                        ),
+                        ProfilCard(
+                          firstText: "HP.",
+                          secondText: phone_dok,
+                          icon: Icon(
+                            Icons.phone,
+                            size: 30,
+                          ),
+                          widhh: 0.3,
+                        ),
+                        ProfilCard(
+                          firstText: "Alamat",
+                          secondText: alamat_dok,
+                          icon: Icon(
+                            Icons.home_outlined,
+                            size: 30,
+                          ),
+                          widhh: 0.2,
+                        )
+                        //   ],
+                        // )
+                      ],
+                    )),
+              ),
+              new Divider(
+                height: 10.0,
+                color: Colors.transparent,
+              ),
+              new Container(
+                decoration: new BoxDecoration(color: Colors.white),
+                child: GestureDetector(
+                    child: Icon(
+                      Icons.chat,
+                      color: Constants.darkOrange,
+                      size: 30,
+                    ),
+                    onTap: () {
+                      Navigator.of(context).push(MaterialPageRoute(
+                        builder: (context) => ChatScreen(),
+                      ));
+                    }),
+              ),
+            ],
+          ),
+        ],
+      ),
+    ));
+  }
+
   Widget listDaftarChat(BuildContext context, int index) {
     //print(dataRiwayatChat[index]);
     return GestureDetector(
       onTap: () {
+        id_doctor = '${dataRiwayatChat[index]["id_user"]}';
         id_penerima = "${dataRiwayatChat[index]["id_user"]}";
-        id_doctor = id_penerima;
-        Navigator.push(
-            context, MaterialPageRoute(builder: (context) => ChatScreen()));
+        name_dok = '${dataRiwayatChat[index]["nama_lengkap"]}';
+        foto_profil_dok = '${dataRiwayatChat[index]["profilePicture"]}';
+        tanggal_lahir_dok =
+            DateTime.parse('${dataRiwayatChat[index]["tanggal_lahir"]}');
+        phone_dok = '${dataRiwayatChat[index]["no_telepon"]}';
+        alamat_dok = '${dataRiwayatChat[index]["alamat"]}';
+        eemail_dok = '${dataRiwayatChat[index]["email"]}';
+        prof_dokter();
       },
       child: Card(
           child: Container(

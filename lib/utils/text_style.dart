@@ -34,7 +34,7 @@ final TextStyle actionMenuStyle = TextStyle(
   letterSpacing: 5,
 );
 final TextStyle profilstyle = TextStyle(
-  fontSize: 18.0,
+  fontSize: 14.0,
   color: Colors.orange,
   fontWeight: FontWeight.w400,
 );

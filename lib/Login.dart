@@ -40,7 +40,7 @@ class _LoginState extends State<Login> {
   final email = TextEditingController();
   final pass = TextEditingController();
   final _key = new GlobalKey<FormState>();
-
+  int _pilihanVal = 0;
   check() {
     final form = _key.currentState;
     if (form.validate()) {
@@ -86,6 +86,134 @@ class _LoginState extends State<Login> {
       print(pesan);
       Fluttertoast.showToast(msg: "login gagal");
     }
+  }
+
+  Future<void> pilihan_signup() {
+    return showDialog<void>(
+        context: context,
+        barrierDismissible: false, //user must tap a button!
+        builder: (BuildContext context) {
+          return Container(
+            margin: EdgeInsets.fromLTRB(50, 250, 50, 250),
+            color: Colors.white,
+            child: pilihan(context),
+          );
+        });
+  }
+
+  Widget pilihan(BuildContext context) {
+    return MaterialApp(
+        home: Scaffold(
+            backgroundColor: Constants.lightYellow,
+            appBar: AppBar(
+              leading: IconButton(
+                icon: Icon(Icons.arrow_back),
+                onPressed: () => Navigator.pop(context, false),
+              ),
+              backgroundColor: Constants.darkOrange,
+              title: const Text('Create Account',
+                  style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 25.0,
+                      color: Colors.white)),
+              centerTitle: true,
+            ),
+            body: ListView(
+              padding: EdgeInsets.only(left: 0, right: 0),
+              shrinkWrap: true,
+              children: <Widget>[
+                Column(
+                  children: <Widget>[
+                    GestureDetector(
+                      onTap: () {
+                        role = 0;
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => SignUp(),
+                          ),
+                        );
+                      },
+                      child: Card(
+                          child: Container(
+                        padding: const EdgeInsets.all(10),
+                        child: Row(
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            children: <Widget>[
+                              Image.asset(
+                                "assets/icon/pasien.png",
+                                width: 30,
+                                height: 30,
+                              ),
+                              Container(
+                                  child: Flexible(
+                                      child: Container(
+                                          padding:
+                                              const EdgeInsets.only(left: 20.0),
+                                          child: Column(
+                                              crossAxisAlignment:
+                                                  CrossAxisAlignment.start,
+                                              children: <Widget>[
+                                                Text('Patient',
+                                                    maxLines: 1,
+                                                    overflow:
+                                                        TextOverflow.ellipsis,
+                                                    style: TextStyle(
+                                                      fontSize: 18,
+                                                      color: Color.fromRGBO(
+                                                          43, 112, 157, 1),
+                                                    )),
+                                                SizedBox(height: 10),
+                                              ]))))
+                            ]),
+                      )),
+                    ),
+                    GestureDetector(
+                      onTap: () {
+                        role = 1;
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => SignUp(),
+                          ),
+                        );
+                      },
+                      child: Card(
+                          child: Container(
+                        padding: const EdgeInsets.all(10),
+                        child: Row(
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            children: <Widget>[
+                              Image.asset(
+                                "assets/icon/Dokter.png",
+                                width: 30,
+                                height: 30,
+                              ),
+                              Container(
+                                  child: Flexible(
+                                      child: Container(
+                                          padding:
+                                              const EdgeInsets.only(left: 20.0),
+                                          child: Column(
+                                              crossAxisAlignment:
+                                                  CrossAxisAlignment.start,
+                                              children: <Widget>[
+                                                Text('Doctor',
+                                                    maxLines: 1,
+                                                    overflow:
+                                                        TextOverflow.ellipsis,
+                                                    style: TextStyle(
+                                                      fontSize: 18,
+                                                      color: Color.fromRGBO(
+                                                          43, 112, 157, 1),
+                                                    )),
+                                                SizedBox(height: 10),
+                                              ]))))
+                            ]),
+                      )),
+                    ),
+                  ],
+                )
+              ],
+            )));
   }
 
   @override
@@ -264,11 +392,12 @@ class _LoginState extends State<Login> {
                       ),
                       GestureDetector(
                         onTap: () {
-                          Navigator.of(context).push(
-                            MaterialPageRoute(
-                              builder: (context) => SignUp(),
-                            ),
-                          );
+                          pilihan_signup();
+                          // Navigator.of(context).push(
+                          //   MaterialPageRoute(
+                          //     builder: (context) => SignUp(),
+                          //   ),
+                          // );
                         },
                         child: FadeAnimation(
                             2,

@@ -107,7 +107,7 @@ class _dashADDECGPage extends State<dashADDECG> {
     }
     int j = 0;
     print(databuild);
-    for (int i = 0; i < panjangdata; i++) {
+    for (int i = 10; i < panjangdata; i++) {
       if (i % 2 == 0) {
         j++;
         TimeOfDay _startTime = TimeOfDay(
@@ -140,11 +140,11 @@ class _dashADDECGPage extends State<dashADDECG> {
         String swaktu = s_jam + ":" + s_menit;
         builddatajson = {
           "menit":
-              (((int.parse(databuild[i + 1]) - int.parse(databuild[1])) / 60)
+              (((int.parse(databuild[i + 1]) - int.parse(databuild[11])) / 60)
                       .toInt())
                   .toString(),
           "detik":
-              ((int.parse(databuild[i + 1]) - int.parse(databuild[1])) % 60)
+              ((int.parse(databuild[i + 1]) - int.parse(databuild[11])) % 60)
                   .toString(),
           "data": databuild[i],
           "jam": swaktu.toString(),
@@ -674,22 +674,41 @@ class _dashADDECGPage extends State<dashADDECG> {
                                 for (int i = 0; i < 11; i++) {
                                   _sendOffMessageToBluetooth();
                                 }
-
+                                ecgdata = [];
                                 //_ambildariBluetooth();
 
                                 //_disconnect();
                                 _stopWatchTimer.onExecute
                                     .add(StopWatchExecute.stop);
+                                print("datasensor: " + datasensor);
                                 build_data(datasensor);
                                 FileUtils.saveToFile(ecgdata.toString());
                                 print(ecgdata.toString());
                               },
                               child: const Text(
-                                'Stop and save',
+                                'Stop and Save',
                                 style: TextStyle(color: Colors.white),
                               ),
                             ),
                           ),
+                          // Padding(
+                          //   padding: const EdgeInsets.symmetric(horizontal: 4),
+                          //   child: RaisedButton(
+                          //     padding: const EdgeInsets.all(4),
+                          //     color: Colors.orangeAccent,
+                          //     shape: const StadiumBorder(),
+                          //     onPressed: () async {
+                          //       print("datasensor: " + datasensor);
+                          //       build_data(datasensor);
+                          //       FileUtils.saveToFile(ecgdata.toString());
+                          //       print(ecgdata.toString());
+                          //     },
+                          //     child: const Text(
+                          //       'Save',
+                          //       style: TextStyle(color: Colors.white),
+                          //     ),
+                          //   ),
+                          // ),
                           Padding(
                             padding: const EdgeInsets.symmetric(horizontal: 4),
                             child: RaisedButton(
@@ -737,6 +756,7 @@ class _dashADDECGPage extends State<dashADDECG> {
                     style: TextStyle(color: Colors.white),
                   ),
                   onPressed: () {
+                    _load.show();
                     FileUtils.readFromFile().then((contents) {
                       setState(() {
                         // contents.runes.forEach((int rune) {
@@ -755,6 +775,7 @@ class _dashADDECGPage extends State<dashADDECG> {
                       });
                     });
                     ambilDataDokter();
+                    _load.hide();
                     daftar_dokter();
 
                     //masukkanList();

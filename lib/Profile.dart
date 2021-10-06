@@ -85,34 +85,42 @@ class _ProfilePage extends State<Profile> {
                         //   crossAxisAlignment: CrossAxisAlignment.end,
                         //   children: [
                         ProfilCard(
-                            firstText: "Tanggal lahir",
-                            secondText:
-                                DateFormat('dd-MM-yyyy').format(tanggal_lahir),
-                            icon: Icon(
-                              Icons.calendar_today,
-                              size: 30,
-                            )),
+                          firstText: "Tanggal \n lahir",
+                          secondText:
+                              DateFormat('dd-MM-yyyy').format(tanggal_lahir),
+                          icon: Icon(
+                            Icons.calendar_today,
+                            size: 30,
+                          ),
+                          widhh: 0.4,
+                        ),
                         ProfilCard(
-                            firstText: "Email",
-                            secondText: eemail,
-                            icon: Icon(
-                              Icons.email,
-                              size: 30,
-                            )),
+                          firstText: "Email",
+                          secondText: eemail,
+                          icon: Icon(
+                            Icons.email,
+                            size: 30,
+                          ),
+                          widhh: 0.4,
+                        ),
                         ProfilCard(
-                            firstText: "HP.",
-                            secondText: phone,
-                            icon: Icon(
-                              Icons.phone,
-                              size: 30,
-                            )),
+                          firstText: "HP.",
+                          secondText: phone,
+                          icon: Icon(
+                            Icons.phone,
+                            size: 30,
+                          ),
+                          widhh: 0.4,
+                        ),
                         ProfilCard(
-                            firstText: "Alamat",
-                            secondText: alamat,
-                            icon: Icon(
-                              Icons.home_outlined,
-                              size: 30,
-                            ))
+                          firstText: "Alamat",
+                          secondText: alamat,
+                          icon: Icon(
+                            Icons.home_outlined,
+                            size: 30,
+                          ),
+                          widhh: 0.4,
+                        )
                         //   ],
                         // )
                       ],

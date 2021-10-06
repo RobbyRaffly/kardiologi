@@ -8,7 +8,7 @@ import 'package:haloecg/dashboardkeRiwayat.dart';
 import 'package:haloecg/daftar_dokter.dart';
 import 'package:haloecg/global_var.dart';
 import 'package:haloecg/daftar_chat.dart';
-
+import 'package:haloecg/Settings.dart';
 import 'package:flutter/material.dart';
 //import 'package:flutter/services.dart'; // For using PlatformException
 
@@ -195,6 +195,13 @@ class _HomePasienPage extends State<HomePasien> {
                                             width: 50,
                                             height: 50,
                                           )),
+                                      onTap: () {
+                                        Navigator.of(context).push(
+                                          MaterialPageRoute(
+                                            builder: (context) => Settings(),
+                                          ),
+                                        );
+                                      },
                                     ),
                                   ],
                                 ),
@@ -273,6 +280,13 @@ class _HomePasienPage extends State<HomePasien> {
                                             width: 50,
                                             height: 50,
                                           )),
+                                      onTap: () {
+                                        Navigator.of(context).push(
+                                          MaterialPageRoute(
+                                            builder: (context) => Settings(),
+                                          ),
+                                        );
+                                      },
                                     ),
                                   ],
                                 ),

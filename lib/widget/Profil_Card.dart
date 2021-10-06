@@ -5,12 +5,14 @@ import 'package:flutter/material.dart';
 class ProfilCard extends StatelessWidget {
   final String firstText, secondText;
   final Widget icon;
+  final double widhh;
 
   const ProfilCard(
       {Key key,
       @required this.firstText,
       @required this.secondText,
-      @required this.icon})
+      @required this.icon,
+      @required this.widhh})
       : super(key: key);
 
   @override
@@ -46,14 +48,14 @@ class ProfilCard extends StatelessWidget {
             SizedBox(width: MediaQuery.of(context).size.width * 0.04),
             Container(
                 constraints: BoxConstraints(
-                  maxWidth: MediaQuery.of(context).size.width * 0.50,
+                  maxWidth: MediaQuery.of(context).size.width * widhh,
                 ),
                 child: Column(
                   children: [
                     Text(
                       secondText,
                       style: profilstyle,
-                      maxLines: 5,
+                      maxLines: 10,
                       overflow: TextOverflow.ellipsis,
                     ),
                   ],

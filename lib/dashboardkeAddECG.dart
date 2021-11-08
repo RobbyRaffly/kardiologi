@@ -379,7 +379,7 @@ class _dashADDECGPage extends State<dashADDECG> {
     return GestureDetector(
       onTap: () {
         for (int i = 0; i < 5; i++) {
-          id_doctor = "${daftardokterlist[index]["id_user"]}";
+          id_doctor = "${daftardokterlist[index]["id_dokter"]}";
         }
         kirimData();
       },
@@ -982,7 +982,7 @@ class _dashADDECGPage extends State<dashADDECG> {
                 //int ecgInt = int.parse(sensorValue);
                 datasensor = datasensor + sensorValue;
 
-                Fluttertoast.showToast(msg: "merekam data sinyal");
+                //Fluttertoast.showToast(msg: "merekam data sinyal");
               }
             });
           }).onDone(() {

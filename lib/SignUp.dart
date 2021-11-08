@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'package:haloecg/widget/FadeAnimation.dart';
 import 'package:flutter/material.dart';
 import 'package:haloecg/utils/const.dart';
@@ -8,6 +9,9 @@ import 'package:haloecg/Login.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:haloecg/Isi_profil.dart';
 import 'package:haloecg/Isi_profil_Dokter.dart';
+import 'package:http/http.dart' as http;
+import 'package:haloecg/widget/loading.dart';
+import 'package:fluttertoast/fluttertoast.dart';
 
 class SignUp extends StatefulWidget {
   @override
@@ -21,6 +25,7 @@ final new_confirm_pass = TextEditingController();
 
 class _SignUpState extends State<SignUp> {
   bool _secureText = true;
+  Loading _load;
   final _key = new GlobalKey<FormState>();
   showHide() {
     setState(() {
@@ -33,6 +38,24 @@ class _SignUpState extends State<SignUp> {
     if (form.validate()) {
       form.save();
       print("lengkapi profil anda");
+    }
+  }
+
+  signup_() async {
+    //_load.show();
+    var url = link + "signUp.php";
+    var response = await http.post(url, body: {
+      "username": new_username.text,
+      "email": new_email.text,
+      "password": new_password.text,
+      "role": role.toString()
+    });
+    final data = jsonDecode(response.body);
+    print(data);
+    String value = data['value'];
+
+    // _load.hide();
+    if (value == "1") {
       role == 0
           ? Navigator.of(context).push(
               MaterialPageRoute(
@@ -44,6 +67,10 @@ class _SignUpState extends State<SignUp> {
                 builder: (context) => IsiProfil_Dokter(),
               ),
             );
+      print("signup sukses");
+    } else {
+      print("signup gagal");
+      Fluttertoast.showToast(msg: "login gagal");
     }
   }
 
@@ -244,6 +271,7 @@ class _SignUpState extends State<SignUp> {
                   GestureDetector(
                     onTap: () {
                       check();
+                      signup_();
                     },
                     child: FadeAnimation(
                         1.9,

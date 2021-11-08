@@ -30,10 +30,16 @@ class _RiwayatDiagnosaState extends State<RiwayatDiagnosa> {
 
   void ambilDataRiwayatDiagnosa() async {
     var response;
-
+    print("id pasien = " +
+        id_pasien.toString() +
+        ", id dokter = " +
+        id_doctor.toString());
     var url = link + "RiwayatDiagnosa.php";
-    response = await http.post(url,
-        body: {"id_pasien": "${id_pasien}", "id_dokter": "${id_doctor}"});
+    response = await http.post(url, body: {
+      "id_pasien": "${id_pasien}",
+      "id_dokter": "${id_doctor}",
+      "tanggal": "${tanggallihatgrafik}"
+    });
 
     print(response);
 

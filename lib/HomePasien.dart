@@ -24,6 +24,8 @@ import 'package:haloecg/utils/text_style.dart';
 import 'package:haloecg/widget/Menu_Card.dart';
 import 'package:haloecg/widget/opaque_imageHome.dart';
 import 'package:haloecg/widget/my_info.dart';
+import 'package:fluttertoast/fluttertoast.dart';
+import 'package:haloecg/widget/loading.dart';
 
 class HomePasien extends StatefulWidget {
   @override
@@ -31,6 +33,48 @@ class HomePasien extends StatefulWidget {
 }
 
 class _HomePasienPage extends State<HomePasien> {
+  Loading _load;
+  pascalogin() async {
+    var url = link + "pascalogin.php";
+    //_load.show();
+    var response = await http.post(url, body: {"id_user": id_user});
+    final data = jsonDecode(response.body);
+    print(data);
+    String value = data['value'];
+    String pesan = data['message'];
+    String roleBaru = data['role'].toString();
+    String id;
+    role == "0"
+        ? id = data['id_pasien'].toString()
+        : id = data['id_dokter'].toString();
+    String usernameBaru = data['username'].toString();
+    String nameBaru = data['name'].toString();
+    //_load.hide();
+    if (value == "1") {
+      //Navigator.pushReplacementNamed(context, '/root_page');
+      id_user = id;
+      role = roleBaru;
+      username = usernameBaru;
+      name = nameBaru;
+      foto_profil = data['foto_profil'].toString();
+      phone = data['phone'].toString();
+      alamat = data['alamat'].toString();
+      tanggal_lahir = DateTime.parse(data['tanggal_lahir']);
+      eemail = data['email'].toString();
+      print("id user = " + id_user);
+      print(pesan);
+    } else {
+      print(pesan);
+      Fluttertoast.showToast(msg: "login gagal");
+    }
+  }
+
+  @override
+  void initState() {
+    pascalogin();
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     final screenHeight = MediaQuery.of(context).size.height;

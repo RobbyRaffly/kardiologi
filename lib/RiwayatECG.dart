@@ -29,11 +29,12 @@ class _RiwayatECGState extends State<RiwayatECG> {
   void ambilDataRiwayatECG() async {
     var response;
     if (role == "0") {
-      var url = link + "RiwayatECG.php";
+      var url = link + "RiwayatECGkususP.php";
       response = await http.post(url, body: {
         "id_pasien": "${id_user}",
         "bulan": "${bulan.text}",
-        "tahun": "${tahun.text}"
+        "tahun": "${tahun.text}",
+        "id_dokter": "${id_doctor}"
       });
     } else {
       var url = link + "RiwayatECGuntukDokter.php";
@@ -56,15 +57,16 @@ class _RiwayatECGState extends State<RiwayatECG> {
     //print(dataRiwayatECG[index]);
     return GestureDetector(
       onTap: () {
-        role == "0"
-            ? id_doctor = '${dataRiwayatECG[index]["id_dokter"]}'
-            : id_doctor = id_user;
-        role == "0"
-            ? id_pasien = id_user
-            : id_pasien = '${dataRiwayatECG[index]["id_pasien"]}';
+        // role == "0"
+        //     ? {id_pasien = id_user, id_doctor = '${dataRiwayatECG[index]["id_dokter"]}'}
+        //     : {id_pasien = '${dataRiwayatECG[index]["id_pasien"]}', id_doctor = id_user};
         doctor_name = '${dataRiwayatECG[index]["nama_lengkap"]}';
         tanggallihatgrafik = '${dataRiwayatECG[index]["tanggal"]}';
         jamlihatgrafik = "${dataRiwayatECG[index]["clock"]}";
+        print("id pasien = " +
+            id_pasien.toString() +
+            ", id dokter = " +
+            id_doctor.toString());
         role == "1"
             ? Navigator.push(context,
                 MaterialPageRoute(builder: (context) => ChartECGsignal()))

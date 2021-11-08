@@ -48,7 +48,13 @@ class _DaftarChat extends State<DaftarChat> {
     return GestureDetector(
       onTap: () {
         id_penerima = "${dataRiwayatChat[index]["id_user"]}";
-        role == "0" ? id_pasien = id_user : id_pasien = id_penerima;
+        role == "0"
+            ? {id_pasien = id_user, id_doctor = id_penerima}
+            : {id_pasien = id_penerima, id_doctor = id_user};
+        print("id pasien = " +
+            id_pasien.toString() +
+            ", id dokter = " +
+            id_doctor.toString());
         Navigator.push(
             context, MaterialPageRoute(builder: (context) => ChatScreen()));
       },

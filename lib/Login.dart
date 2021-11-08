@@ -127,6 +127,7 @@ class _LoginState extends State<Login> {
                     GestureDetector(
                       onTap: () {
                         role = 0;
+                        print("role = " + role.toString());
                         Navigator.of(context).push(
                           MaterialPageRoute(
                             builder: (context) => SignUp(),
@@ -170,6 +171,7 @@ class _LoginState extends State<Login> {
                     GestureDetector(
                       onTap: () {
                         role = 1;
+                        print("role = " + role.toString());
                         Navigator.of(context).push(
                           MaterialPageRoute(
                             builder: (context) => SignUp(),

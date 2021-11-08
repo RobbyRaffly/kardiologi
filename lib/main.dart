@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:haloecg/AddECGsignal.dart';
 import 'package:haloecg/ChartECG.dart';
 import 'package:haloecg/HomePasien.dart';
-import 'package:haloecg/cobachart.dart';
 import 'package:haloecg/Login.dart';
+import 'package:haloecg/Isi_profil_Dokter.dart';
 
 void main() {
   runApp(MyApp());

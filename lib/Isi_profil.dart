@@ -9,6 +9,7 @@ import 'package:intl/intl.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:haloecg/HomePasien.dart';
 import 'package:haloecg/utils/const.dart';
+import 'package:haloecg/widget/loading.dart';
 
 class IsiProfil extends StatefulWidget {
   @override
@@ -16,6 +17,7 @@ class IsiProfil extends StatefulWidget {
 }
 
 class _IsiProfil extends State<IsiProfil> {
+  Loading _load;
   DateTime selectedDate = DateTime.now();
   int _radioVal = 0;
   File _image;
@@ -74,23 +76,41 @@ class _IsiProfil extends State<IsiProfil> {
     }
   }
 
+  pralogin() async {
+    //_load.show();
+    var url = link + "pralogin.php";
+    var response = await http.post(url,
+        body: {"email": new_email.text, "password": new_password.text});
+    final data = jsonDecode(response.body);
+    print(data);
+    String value = data['value'];
+
+    //_load.hide();
+    if (value == "1") {
+      //Navigator.pushReplacementNamed(context, '/root_page');
+      id_user = data['id_user'];
+
+      print("id baru ditambahkan");
+    } else {
+      print("id failed");
+      Fluttertoast.showToast(msg: "ambil id gagal");
+    }
+  }
+
   kirimData() async {
     var base64img = base64Encode(_image.readAsBytesSync());
     String tanggal = DateFormat('yyyy-mm-dd').format(selectedDate);
     var usernameBaru = new_username.text;
     var fileName = '${usernameBaru}_${tanggal}.jpg';
-    var url = link + "signUPregistrasi.php";
+    var url = link + "signUPregistrasiPasien.php";
     var response = await http.post(url, body: {
-      "username": new_username.text,
-      "email": new_email.text,
-      "password": new_password.text,
+      "userid": id_user,
       "image": base64img,
       "images_camera": fileName,
       "namalengkap": namaLengkap.text,
       "gender": _radioVal.toString(),
       "phone": phone.text,
       "dob": selectedDate.toString(),
-      "role": "0",
       "alamat": alamat.text,
       "no_identitas": noIdentitas.text,
     });
@@ -99,10 +119,10 @@ class _IsiProfil extends State<IsiProfil> {
     int value = int.parse(respon['value']);
     if (value == 1) {
       Fluttertoast.showToast(msg: "Data Berhasil Disimpan");
-      usernameBaru = usernameBaru;
+      id_user = id_user;
       role = "0";
-      id_user = respon['id_user'].toString();
-      name = namaLengkap.text;
+      username = usernameBaru;
+
       Navigator.of(context).push(
         MaterialPageRoute(
           builder: (context) => HomePasien(),
@@ -117,12 +137,18 @@ class _IsiProfil extends State<IsiProfil> {
   }
 
   @override
+  void initState() {
+    pralogin();
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
         backgroundColor: Constants.lightYellow,
         appBar: AppBar(
           centerTitle: true,
-          title: Text("Lengkapi Profil Anda"),
+          title: Text("Lengkapi Profil Pasien"),
           backgroundColor: Constants.darkOrange,
           leading: IconButton(
             icon: Icon(Icons.arrow_back),

@@ -1,0 +1,49 @@
+\babel@toc {indonesian}{}
+\contentsline {chapter}{Abstrak}{i}{section*.1}%
+\contentsline {chapter}{Abstract}{iii}{section*.1}%
+\contentsline {chapter}{KATA PENGANTAR}{v}{section*.1}%
+\contentsline {chapter}{DAFTAR ISI}{vii}{Item.5}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xi}{chapter*.2}%
+\contentsline {chapter}{DAFTAR TABEL}{xiii}{chapter*.3}%
+\contentsline {chapter}{NOMENKLATUR}{xv}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}PENDAHULUAN}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Latar belakang}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Perumusan Masalah}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Tujuan}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Batasan masalah}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Sistematika Penulisan}{3}{section.1.5}%
+\contentsline {chapter}{\numberline {2}TINJAUAN PUSTAKA}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Dasar Teori}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Kardiologi}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}ECG atau EKG}{7}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Jenis ECG}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Sinyal ECG}{9}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}AD8232}{10}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}AD8232 \textit {Placement}}{10}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Modul Bluetooth HC-05}{11}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Arduino Nano}{13}{subsection.2.1.8}%
+\contentsline {section}{\numberline {2.2}Penelitian Terkait}{14}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}\textit {IoT based Real Time ECG Monitoring System using Cypress WICED}}{14}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\textit {An IoT-cloud Based Wearable ECG Monitoring System for Smart Healthcare}}{14}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}DESAIN DAN IMPLEMENTASI}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Desain Sistem}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Desain Perangkat}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Desain UI Aplikasi}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Desain Database}{21}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Akuisisi Data}{23}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Perekaman Data}{24}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Penyimpanan Data}{26}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Menampilkan Data}{27}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Diagnosa Data}{30}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Fitur Chat}{31}{section.3.10}%
+\contentsline {chapter}{\numberline {4}HASIL DAN PENGUJIAN}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Pengujian Rekaman Data Selama 15 Menit}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Pengujian Persentase Data Hilang}{36}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Pengujian Waktu Pengiriman Data Menuju Database}{38}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Pengujian kesesuaian data dari arduino dan data di aplikasi}{41}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Pengujian Kesesuian Grafik ECG}{53}{section.4.5}%
+\contentsline {chapter}{\numberline {5}PENUTUP}{57}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Kesimpulan}{57}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Saran}{57}{section.5.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{59}{Item.73}%
+\contentsline {chapter}{Biografi Penulis}{63}{figure.caption.41}%

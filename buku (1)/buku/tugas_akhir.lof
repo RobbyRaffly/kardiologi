@@ -1,0 +1,35 @@
+\babel@toc {indonesian}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Gelombang ECG.\relax }}{9}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sensor AD8232.\relax }}{10}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Penempatan AD8232 1 (kiri), Penempatan AD8232 2 (kanan)\relax }}{11}{figure.caption.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Arsitektur (a) dan Blok Diagram (b) Alur Kerja Sistem\relax }}{15}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Desain Perangkat ECG\relax }}{16}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Desain UI pada aplikasi dokter.\relax }}{17}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Desain UI pada aplikasi pasien.\relax }}{19}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Desain database.\relax }}{21}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Perangkat ECG.\relax }}{23}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagram mekanisme akuisisi data.\relax }}{24}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Implementasi UI Rekam Sinyal ECG.\relax }}{25}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Tabel data\_ecg.\relax }}{27}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Implementasi UI Grafik ECG dokter.\relax }}{28}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Implementasi UI Grafik ECG pasien.\relax }}{29}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Implementasi UI Riwayat Diagnosa.\relax }}{30}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Implementasi UI Chatscreen Pasien.\relax }}{31}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Implementasi UI Chatscreen Dokter.\relax }}{32}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Percobaan 1 : (a)Data awal yang dikirim dari arduino, (b)Data akhir yang dikirim arduino.\relax }}{42}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Percobaan 1: (kiri) Data awal yang diterima aplikasi, (kanan) Data akhir yang diterima aplikasi.\relax }}{43}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Percobaan 2 : (a)Data awal yang dikirim dari arduino, (b)Data akhir yang dikirim arduino.\relax }}{45}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Percobaan 2: (kiri) Data awal yang diterima aplikasi, (kanan) Data akhir yang diterima aplikasi.\relax }}{46}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Percobaan 3 : (a)Data awal yang dikirim dari arduino, (b)Data akhir yang dikirim arduino.\relax }}{47}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Percobaan 3: (kiri) Data awal yang diterima aplikasi, (kanan) Data akhir yang diterima aplikasi.\relax }}{48}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Percobaan 4 : (a)Data awal yang dikirim dari arduino, (b)Data akhir yang dikirim arduino.\relax }}{49}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Percobaan 4: (kiri) Data awal yang diterima aplikasi, (kanan) Data akhir yang diterima aplikasi.\relax }}{50}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Percobaan 5 : (a)Data awal yang dikirim dari arduino, (b)Data akhir yang dikirim arduino.\relax }}{51}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Percobaan 5: (kiri) Data awal yang diterima aplikasi, (kanan) Data akhir yang diterima aplikasi.\relax }}{52}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Grafik ECG yang ditampilkan pada aplikasi.\relax }}{54}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Grafik ECG yang ditampilkan pada serial ploter Arduino IDE.\relax }}{55}{figure.caption.39}%
+\addvspace {10\p@ }

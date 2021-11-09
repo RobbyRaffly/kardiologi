@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{_openstack_2015}
+``Openstack installation guide for ubuntu 14.04.''
+  \url{http://docs.openstack.org/}.
+\newblock Terakhir diakses pada tanggal 18 Mei 2015.
+
+\bibitem{_phoronix_2015}
+``Phoronix test suite tests.'' \url{http://openbenchmarking.org/tests/pts}.
+\newblock Terakhir diakses pada tanggal 31 Mei 2015.
+
+\bibitem{_stream_2015}
+J.~Layton, ``Finding memory bottlenecks with stream.''
+  \url{http://www.admin-magazine.com/HPC/Articles/Finding-Memory-Bottlenecks-with-Stream}.
+\newblock Terakhir diakses pada tanggal 31 Mei 2015.
+
+\bibitem{_intel_2015}
+K.~Raman, ``Optimizing memory bandwidth on stream triad.''
+  \url{https://software.intel.com/en-us/articles/optimizing-memory-bandwidth-on-stream-triad}.
+\newblock Terakhir diakses pada tanggal 31 Mei 2015.
+
+\bibitem{_sherweb_2015}
+``Cloud servers benchmarks.'' \url{http://www.sherweb.com/blog/}.
+\newblock Terakhir diakses pada tanggal 31 Mei 2015.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+\BOOKMARK [0][-]{section*.1}{Abstrak}{}% 1
+\BOOKMARK [0][-]{section*.1}{Abstract}{}% 2
+\BOOKMARK [0][-]{section*.1}{KATA PENGANTAR}{}% 3
+\BOOKMARK [0][-]{Item.5}{DAFTAR ISI}{}% 4
+\BOOKMARK [0][-]{chapter*.2}{DAFTAR GAMBAR}{}% 5
+\BOOKMARK [0][-]{chapter*.3}{DAFTAR TABEL}{}% 6
+\BOOKMARK [0][-]{chapter*.4}{NOMENKLATUR}{}% 7
+\BOOKMARK [0][-]{chapter.1}{1 PENDAHULUAN}{}% 8
+\BOOKMARK [1][-]{section.1.1}{1.1 Latar belakang}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.2}{1.2 Perumusan Masalah}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.3}{1.3 Tujuan}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.4}{1.4 Batasan masalah}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.5}{1.5 Sistematika Penulisan}{chapter.1}% 13
+\BOOKMARK [0][-]{chapter.2}{2 TINJAUAN PUSTAKA}{}% 14
+\BOOKMARK [1][-]{section.2.1}{2.1 Dasar Teori}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Kardiologi}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 ECG atau EKG}{section.2.1}% 17
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Jenis ECG}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.4}{2.1.4 Sinyal ECG}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.5}{2.1.5 AD8232}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.6}{2.1.6 AD8232 Placement}{section.2.1}% 21
+\BOOKMARK [2][-]{subsection.2.1.7}{2.1.7 Modul Bluetooth HC-05}{section.2.1}% 22
+\BOOKMARK [2][-]{subsection.2.1.8}{2.1.8 Arduino Nano}{section.2.1}% 23
+\BOOKMARK [1][-]{section.2.2}{2.2 Penelitian Terkait}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 IoT based Real Time ECG Monitoring System using Cypress WICED}{section.2.2}% 25
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 An IoT-cloud Based Wearable ECG Monitoring System for Smart Healthcare}{section.2.2}% 26
+\BOOKMARK [0][-]{chapter.3}{3 DESAIN DAN IMPLEMENTASI}{}% 27
+\BOOKMARK [1][-]{section.3.1}{3.1 Desain Sistem}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.2}{3.2 Desain Perangkat}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.3}{3.3 Desain UI Aplikasi}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.4}{3.4 Desain Database}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.5}{3.5 Akuisisi Data}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.6}{3.6 Perekaman Data}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.7}{3.7 Penyimpanan Data}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.8}{3.8 Menampilkan Data}{chapter.3}% 35
+\BOOKMARK [1][-]{section.3.9}{3.9 Diagnosa Data}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.10}{3.10 Fitur Chat}{chapter.3}% 37
+\BOOKMARK [0][-]{chapter.4}{4 HASIL DAN PENGUJIAN}{}% 38
+\BOOKMARK [1][-]{section.4.1}{4.1 Pengujian Rekaman Data Selama 15 Menit}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.2}{4.2 Pengujian Persentase Data Hilang}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.3}{4.3 Pengujian Waktu Pengiriman Data Menuju Database}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.4}{4.4 Pengujian kesesuaian data dari arduino dan data di aplikasi}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.5}{4.5 Pengujian Kesesuian Grafik ECG}{chapter.4}% 43
+\BOOKMARK [0][-]{chapter.5}{5 PENUTUP}{}% 44
+\BOOKMARK [1][-]{section.5.1}{5.1 Kesimpulan}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.2}{5.2 Saran}{chapter.5}% 46
+\BOOKMARK [0][-]{Item.73}{DAFTAR PUSTAKA}{}% 47
+\BOOKMARK [0][-]{figure.caption.41}{Biografi Penulis}{}% 48

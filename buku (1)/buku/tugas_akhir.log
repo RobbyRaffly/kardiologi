@@ -1,0 +1,1781 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.21)  9 NOV 2021 16:57
+entering extended mode
+**./tugas_akhir.tex
+(tugas_akhir.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-10-05>
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@chapter=\count169
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\c@figure=\count175
+\c@table=\count176
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen137
+\ar@mcellbox=\box45
+\extrarowheight=\dimen138
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count177
+\multirow@dima=\skip52
+\bigstrutjot=\dimen139
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count178
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box47
+\rot@mess@toks=\toks17
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count179
+\@cmidlb=\count180
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count181
+\@lastruleclass=\count182
+\@thisrulewidth=\dimen152
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm2e.
+sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count183
+\algocf@hangindent=\skip55
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count184
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip56
+\skiplinenumber=\skip57
+\skiprule=\skip58
+\skiphlne=\skip59
+\skiptext=\skip60
+\skiplength=\skip61
+\algomargin=\skip62
+\skipalgocfslide=\skip63
+\algowidth=\dimen153
+\inoutsize=\dimen154
+\inoutindent=\dimen155
+\interspacetitleruled=\dimen156
+\interspacealgoruled=\dimen157
+\interspacetitleboxruled=\dimen158
+\algocf@ruledwidth=\skip64
+\algocf@inoutbox=\box48
+\algocf@inputbox=\box49
+\AlCapSkip=\skip65
+\AlCapHSkip=\skip66
+\algoskipindent=\skip67
+\algocf@nlbox=\box50
+\algocf@hangingbox=\box51
+\algocf@untilbox=\box52
+\algocf@skipuntil=\skip68
+\algocf@capbox=\box53
+\algocf@lcaptionbox=\skip69
+\algoheightruledefault=\skip70
+\algoheightrule=\skip71
+\algotitleheightruledefault=\skip72
+\algotitleheightrule=\skip73
+\c@algocfline=\count185
+\c@algocfproc=\count186
+\c@algocf=\count187
+\algocf@algoframe=\box54
+\algocf@algobox=\box55
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudoco
+de.sty
+Package: algpseudocode 
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmic
+x.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count188
+\c@ALG@rem=\count189
+\c@ALG@nested=\count190
+\ALG@tlm=\skip74
+\ALG@thistlm=\skip75
+\c@ALG@Lnr=\count191
+\c@ALG@blocknr=\count192
+\c@ALG@storecount=\count193
+\c@ALG@tmpcounter=\count194
+\ALG@tmplength=\skip76
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write4
+\openout4 = `tugas_akhir.idx'.
+
+
+Writing index file tugas_akhir.idx
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count195
+\Hy@pagecounter=\count196
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count197
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4338
+.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count198
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen160
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count199
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count266
+\c@Item=\count267
+\c@Hfootnote=\count268
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/atveryend\atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count269
+\c@bookmark@seq@number=\count270
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip77
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count271
+\U@D=\dimen163
+\l@babelnohyphens=\language79
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count272
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/babel-indonesian\bahasa.
+ldf
+Language: bahasa 2017/02/15 v1.0m Bahasa Indonesia support from the babel syste
+m
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/babel-indonesian\indones
+ian.ldf
+Language: indonesian 2017/02/15 v1.0m Bahasa Indonesia support from the babel s
+ystem
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/babel-indonesian\indones
+ian.ldf
+Language: indonesian 2017/02/15 v1.0m Bahasa Indonesia support from the babel s
+ystem
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen164
+\epsfysize=\dimen165
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen166
+\Gm@wd@mp=\dimen167
+\Gm@odd@mp=\dimen168
+\Gm@even@mp=\dimen169
+\Gm@layoutwidth=\dimen170
+\Gm@layoutheight=\dimen171
+\Gm@layouthoffset=\dimen172
+\Gm@layoutvoffset=\dimen173
+\Gm@dimlist=\toks18
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/type1cm\type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/minifp\minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count276
+)
+\c@DefaultLines=\count277
+\c@DefaultDepth=\count278
+\DefaultFindent=\dimen174
+\DefaultNindent=\dimen175
+\DefaultSlope=\dimen176
+\DiscardVskip=\dimen177
+\L@lbox=\box56
+\L@tbox=\box57
+\c@L@lines=\count279
+\c@L@depth=\count280
+\L@Pindent=\dimen178
+\L@Findent=\dimen179
+\L@Nindent=\dimen180
+\L@lraise=\dimen181
+\L@first=\dimen182
+\L@next=\dimen183
+\L@slope=\dimen184
+\L@height=\dimen185
+\L@novskip=\dimen186
+\L@target@ht=\dimen187
+\L@target@dp=\dimen188
+\L@target@tht=\dimen189
+\LettrineWidth=\dimen190
+\LettrineHeight=\dimen191
+\LettrineDepth=\dimen192
+\Llist@everypar=\toks19
+
+Loading lettrine.cfg
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2020/01/14 v1.40 Bibliographical back referencing
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip78
+\f@nch@O@elh=\skip79
+\f@nch@O@erh=\skip80
+\f@nch@O@olh=\skip81
+\f@nch@O@orh=\skip82
+\f@nch@O@elf=\skip83
+\f@nch@O@erf=\skip84
+\f@nch@O@olf=\skip85
+\f@nch@O@orf=\skip86
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count281
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip87
+\LTright=\skip88
+\LTpre=\skip89
+\LTpost=\skip90
+\LTchunksize=\count282
+\LTcapwidth=\dimen193
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@cols=\count283
+\LT@rows=\count284
+\c@LT@tables=\count285
+\c@LT@chunks=\count286
+\LT@p@ftn=\toks20
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count287
+\float@exts=\toks21
+\float@box=\box62
+\@float@everytoks=\toks22
+\@floatcapt=\box63
+)
+\@float@every@program=\toks23
+\c@program=\count288
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip91
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen194
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen195
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box64
+\strutbox@=\box65
+\big@size=\dimen196
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count294
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip17
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks25
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks26
+\eqnshift@=\dimen197
+\alignsep@=\dimen198
+\tagshift@=\dimen199
+\tagwidth@=\dimen256
+\totwidth@=\dimen257
+\lineht@=\dimen258
+\@envbody=\toks27
+\multlinegap=\skip92
+\multlinetaggap=\skip93
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip94
+\enit@outerparindent=\dimen259
+\enit@toks=\toks29
+\enit@inbox=\box66
+\enit@count@id=\count301
+\enitdp@description=\count302
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/nonfloat\nonfloat.sty)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box67
+\UL@hyphenbox=\box68
+\UL@skip=\skip95
+\UL@hook=\toks30
+\UL@height=\dimen260
+\UL@pe=\count303
+\UL@pixel=\dimen261
+\ULC@box=\box69
+Package: ulem 2019/11/18
+\ULdepth=\dimen262
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count304
+\calc@Bcount=\count305
+\calc@Adimen=\dimen263
+\calc@Bdimen=\dimen264
+\calc@Askip=\skip96
+\calc@Bskip=\skip97
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count306
+\calc@Cskip=\skip98
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/09/27 v2.0i eso-pic (RN)
+\ESO@tempdima=\dimen265
+\ESO@tempdimb=\dimen266
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen267
+\AM@pageheight=\dimen268
+\AM@fboxrule=\dimen269
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count307
+\AM@pagebox=\box70
+\AM@global@opts=\toks31
+\AM@pagecnt=\count308
+\AM@toc@title=\toks32
+\c@AM@survey=\count309
+\AM@templatesizebox=\box71
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box72
+\beforetitleunit=\skip99
+\aftertitleunit=\skip100
+\ttl@plus=\dimen270
+\ttl@minus=\dimen271
+\ttl@toksa=\toks33
+\titlewidth=\dimen272
+\titlewidthlast=\dimen273
+\titlewidthfirst=\dimen274
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen275
+\captionmargin@=\dimen276
+\captionwidth=\dimen277
+\caption@tempdima=\dimen278
+\caption@indent=\dimen279
+\caption@parindent=\dimen280
+\caption@hangindent=\dimen281
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count310
+\c@continuedfloat=\count311
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+)
+\c@subfigure=\count312
+\c@subtable=\count313
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count314
+\mult@box=\box73
+\multicol@leftmargin=\dimen282
+\c@unbalance=\count315
+\c@collectmore=\count316
+\doublecol@number=\count317
+\multicoltolerance=\count318
+\multicolpretolerance=\count319
+\full@width=\dimen283
+\page@free=\dimen284
+\premulticols=\dimen285
+\postmulticols=\dimen286
+\multicolsep=\skip101
+\multicolbaselineskip=\skip102
+\partial@page=\box74
+\last@line=\box75
+\maxbalancingoverflow=\dimen287
+\mult@rightbox=\box76
+\mult@grightbox=\box77
+\mult@gfirstbox=\box78
+\mult@firstbox=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\c@minrows=\count320
+\c@columnbadness=\count321
+\c@finalcolumnbadness=\count322
+\last@try=\dimen288
+\multicolovershoot=\dimen289
+\multicolundershoot=\dimen290
+\mult@nat@firstbox=\box117
+\colbreak@box=\box118
+\mc@col@check@num=\count323
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count324
+\lst@gtempboxa=\box119
+\lst@token=\toks34
+\lst@length=\count325
+\lst@currlwidth=\dimen291
+\lst@column=\count326
+\lst@pos=\count327
+\lst@lostspace=\dimen292
+\lst@width=\dimen293
+\lst@newlines=\count328
+\lst@lineno=\count329
+\lst@maxwidth=\dimen294
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count330
+\lst@skipnumbers=\count331
+\lst@framebox=\box120
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen295
+\WF@size=\dimen296
+\c@WF@wrappedlines=\count332
+\WF@box=\box121
+\WF@everypar=\toks35
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.st
+y
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count333
+\cp@tempcnt=\count334
+LaTeX Info: Redefining \checkoddpage on input line 59.
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-10-05 L3 programming layer (loader) 
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count335
+\l__pdf_internal_box=\box122
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty
+Package: xparse 2020-10-05 L3 Experimental document command parser
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+-generic.tex
+\l__xparse_current_arg_int=\count336
+\g__xparse_grabber_int=\count337
+\l__xparse_m_args_int=\count338
+\l__xparse_v_nesting_int=\count339
+))
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.st
+y
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)) (tugas_akhir.aux)
+\openout1 = `tugas_akhir.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 179.
+LaTeX Font Info:    ... okay on input line 179.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count340
+\scratchdimen=\dimen297
+\scratchbox=\box123
+\nofMPsegments=\count341
+\nofMParguments=\count342
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count343
+\MPscratchDim=\dimen298
+\MPnumerator=\count344
+\makeMPintoPDFobject=\count345
+\everyMPtoPDFconversion=\toks37
+)
+\AtBeginShipoutBox=\box124
+Package hyperref Info: Link coloring OFF on input line 179.
+ (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count346
+)
+LaTeX Info: Redefining \ref on input line 179.
+LaTeX Info: Redefining \pageref on input line 179.
+LaTeX Info: Redefining \nameref on input line 179.
+ (tugas_akhir.out) (tugas_akhir.out)
+\@outlinefile=\write5
+\openout5 = `tugas_akhir.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 293.0634pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 455.24411pt, 71.13188pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=293.0634pt
+* \textheight=455.24411pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: `nonfloat' package detected; setting `position=b' for com
+patibility reasons.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen299
+\caption@adjustwidth@linewidth=\dimen300
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count347
+(sampul/sampul-luar.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 293.0634pt, 56.9055pt)
+* v-part:(T,H,B)=(270.30118pt, 256.07481pt, 71.13188pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=293.0634pt
+* \textheight=256.07481pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-15.36449pt
+* \topmargin=161.03119pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (sampul/konten.tex
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 8.
+
+)
+<sampul/gambar/sampul-luar.png, id=193, 421.0932pt x 597.432pt>
+File: sampul/gambar/sampul-luar.png Graphic file (type png)
+<use sampul/gambar/sampul-luar.png>
+Package pdftex.def Info: sampul/gambar/sampul-luar.png  used on input line 40.
+(pdftex.def)             Requested size: 421.12428pt x 597.55817pt.
+ [1
+
+
+{C:/Users/ASUS/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./sampul/gambar/
+sampul-luar.png>]) (sampul/sampul-dalam.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 293.0634pt, 56.9055pt)
+* v-part:(T,H,B)=(270.30118pt, 256.07481pt, 71.13188pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=293.0634pt
+* \textheight=256.07481pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-15.36449pt
+* \topmargin=161.03119pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (sampul/konten.tex)
+<sampul/gambar/sampul-dalam.png, id=202, 421.0932pt x 597.432pt>
+File: sampul/gambar/sampul-dalam.png Graphic file (type png)
+<use sampul/gambar/sampul-dalam.png>
+Package pdftex.def Info: sampul/gambar/sampul-dalam.png  used on input line 37.
+
+(pdftex.def)             Requested size: 421.12428pt x 597.55817pt.
+ [2
+
+
+ <./sampul/gambar/sampul-dalam.png>]) (lainnya/pernyataan-keaslian.tex) [3
+
+
+] [4
+
+]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 209.
+
+(lainnya/Abstrak.tex
+Overfull \hbox (1.44493pt too wide) in paragraph at lines 7--13
+[][] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 \newpage
+              [1
+
+])pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.211 \cleardoublepage
+                       [2
+
+] (lainnya/Abstract.texpdfTeX warning (ext4): destination with the same identif
+ier (name{page.iii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 	\newpage
+               [3])pdfTeX warning (ext4): destination with the same identifier 
+(name{page.iv}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 \cleardoublepage
+                       [4
+
+] (lainnya/katapengantar.tex
+Overfull \hbox (1.52052pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/10 Bapak-ibu do-sen pe-nga-jar De-par-te-men Tek-nik Kom-pu-ter,
+ atas
+ []
+
+) [5] [6
+
+] (tugas_akhir.toc [7
+
+] [8])
+\tf@toc=\write6
+\openout6 = `tugas_akhir.toc'.
+
+ [9] [10
+
+] (tugas_akhir.lof
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
+
+]
+Overfull \hbox (3.38055pt too wide) in paragraph at lines 34--34
+ [][] [][]\OT1/cmr/m/n/10 Grafik ECG yang di-tam-pilk-an pa-da se-ri-al plo-ter
+ Ardu- 
+ []
+
+)
+\tf@lof=\write7
+\openout7 = `tugas_akhir.lof'.
+
+ [12] (tugas_akhir.lot)
+\tf@lot=\write8
+\openout8 = `tugas_akhir.lot'.
+
+ [13
+
+
+] [14
+
+] (numenklatur.tex)
+Overfull \hbox (73.4888pt too wide) in paragraph at lines 6--247
+[][]
+ []
+
+[15] [16
+
+] (bab1.tex
+Bab 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3])
+[4] (bab2.tex
+Bab 2.
+
+Overfull \hbox (5.96506pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 Eko-ka-rdi-o-gra-fi bi-a-sa-nya di-ban-tu de-ngan tek-no-lo-gi 
+Dop-pler yang
+ []
+
+[5
+
+
+]
+Overfull \hbox (1.15953pt too wide) in paragraph at lines 28--30
+\OT1/cmr/m/n/10 Spe-si-fik meng-e-nai ka-rdi-o-lo-gi, jan-tung me-mi-li-ki be-b
+e-ra-pa ba-gi-an ana-
+ []
+
+[6] [7] [8]
+<img/Sinyal ecg.jpg, id=489, 643.40375pt x 646.415pt>
+File: img/Sinyal ecg.jpg Graphic file (type jpg)
+<use img/Sinyal ecg.jpg>
+Package pdftex.def Info: img/Sinyal ecg.jpg  used on input line 83.
+(pdftex.def)             Requested size: 193.02261pt x 193.926pt.
+<img/AD8232.png, id=491, 368.577pt x 172.84575pt>
+File: img/AD8232.png Graphic file (type png)
+<use img/AD8232.png>
+Package pdftex.def Info: img/AD8232.png  used on input line 97.
+(pdftex.def)             Requested size: 258.00212pt x 120.99118pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./img/Sinyal ecg.jpg>]
+<img/AD8232-Electrode-Placement-1.jpg, id=501, 436.63126pt x 436.63126pt>
+File: img/AD8232-Electrode-Placement-1.jpg Graphic file (type jpg)
+<use img/AD8232-Electrode-Placement-1.jpg>
+Package pdftex.def Info: img/AD8232-Electrode-Placement-1.jpg  used on input li
+ne 113.
+(pdftex.def)             Requested size: 218.3151pt x 218.3151pt.
+ [10 <./img/AD8232.png>]
+Underfull \vbox (badness 7397) has occurred while \output is active []
+
+ [11 <./img/AD8232-Electrode-Placement-1.jpg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13]) [14
+
+] (bab3.tex
+Bab 3.
+<img/arsitektur.png, id=543, 606.76688pt x 141.52875pt>
+File: img/arsitektur.png Graphic file (type png)
+<use img/arsitektur.png>
+Package pdftex.def Info: img/arsitektur.png  used on input line 17.
+(pdftex.def)             Requested size: 263.75526pt x 61.5213pt.
+<img/blockdiagram.png, id=544, 606.01407pt x 118.94438pt>
+File: img/blockdiagram.png Graphic file (type png)
+<use img/blockdiagram.png>
+Package pdftex.def Info: img/blockdiagram.png  used on input line 21.
+(pdftex.def)             Requested size: 263.75526pt x 51.7676pt.
+[15
+
+
+ <./img/arsitektur.png> <./img/blockdiagram.png>]
+<img/desainperangkat.png, id=552, 773.89125pt x 489.027pt>
+File: img/desainperangkat.png Graphic file (type png)
+<use img/desainperangkat.png>
+Package pdftex.def Info: img/desainperangkat.png  used on input line 58.
+(pdftex.def)             Requested size: 263.75526pt x 166.6699pt.
+
+Overfull \hbox (2.92174pt too wide) in paragraph at lines 56--61
+[]\OT1/cmr/m/n/10 Pada pe-ne-li-ti-an ini meng-gu-na-kan 3 bu-ah kom-po-nen ya-
+i-tu Ardu-
+ []
+
+[16 <./img/desainperangkat.png>]
+<img/dokterUI.png, id=566, 1349.04pt x 606.46574pt>
+File: img/dokterUI.png Graphic file (type png)
+<use img/dokterUI.png>
+Package pdftex.def Info: img/dokterUI.png  used on input line 73.
+(pdftex.def)             Requested size: 293.0634pt x 131.74791pt.
+ [17 <./img/dokterUI.png>] [18]
+<img/pasienUI.png, id=583, 1349.04pt x 914.2155pt>
+File: img/pasienUI.png Graphic file (type png)
+<use img/pasienUI.png>
+Package pdftex.def Info: img/pasienUI.png  used on input line 98.
+(pdftex.def)             Requested size: 293.0634pt x 198.60312pt.
+ [19
+
+ <./img/pasienUI.png>] [20]
+<img/db_revv.png, id=601, 844.15375pt x 643.40375pt>
+File: img/db_revv.png Graphic file (type png)
+<use img/db_revv.png>
+Package pdftex.def Info: img/db_revv.png  used on input line 137.
+(pdftex.def)             Requested size: 293.0634pt x 223.36862pt.
+ [21 <./img/db_revv.png>]
+Overfull \hbox (8.3074pt too wide) in paragraph at lines 148--149
+\OT1/cmr/m/n/10 apli-ka-si an-dro-id. Ta-bel da-ta ECG ter-di-ri da-ri ko-lom i
+d[]data[]ecg,
+ []
+
+
+Overfull \hbox (20.0818pt too wide) in paragraph at lines 148--149
+\OT1/cmr/m/n/10 gal re-kam-an, jam re-kam-an, jam, me-nit, de-tik, dan id[]data
+[]diagnosa
+ []
+
+
+Overfull \hbox (14.73909pt too wide) in paragraph at lines 149--150
+\OT1/cmr/m/n/10 ngan ta-bel da-ta ecg. Ta-bel ini ter-di-ri da-ri ko-lom id[]da
+ta[]diagnosa,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+<img/fotoperangkat1.jpg, id=617, 1482.53876pt x 1112.155pt>
+File: img/fotoperangkat1.jpg Graphic file (type jpg)
+<use img/fotoperangkat1.jpg>
+Package pdftex.def Info: img/fotoperangkat1.jpg  used on input line 158.
+(pdftex.def)             Requested size: 175.83983pt x 131.90855pt.
+<img/diagramAkuisisi.png, id=619, 361.35pt x 504.88625pt>
+File: img/diagramAkuisisi.png Graphic file (type png)
+<use img/diagramAkuisisi.png>
+Package pdftex.def Info: img/diagramAkuisisi.png  used on input line 166.
+(pdftex.def)             Requested size: 175.83983pt x 245.68614pt.
+
+[23 <./img/fotoperangkat1.jpg>]
+<img/layar_rekaman.png, id=626, 1084.05pt x 2168.1pt>
+File: img/layar_rekaman.png Graphic file (type png)
+<use img/layar_rekaman.png>
+Package pdftex.def Info: img/layar_rekaman.png  used on input line 177.
+(pdftex.def)             Requested size: 108.43202pt x 216.85579pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24 <./img/diagramAkuisisi.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <./img/layar_rekaman.png>]
+Overfull \hbox (3.91393pt too wide) in paragraph at lines 211--212
+[]\OT1/cmr/m/n/10 Kolom id[]data[]diagnosa de-ngan ti-pe da-ta INT un-tuk me-ny
+imp-
+ []
+
+<img/tabel data ecg.png, id=638, 578.76225pt x 181.27725pt>
+File: img/tabel data ecg.png Graphic file (type png)
+<use img/tabel data ecg.png>
+Package pdftex.def Info: img/tabel data ecg.png  used on input line 217.
+(pdftex.def)             Requested size: 293.0634pt x 91.79184pt.
+[26]
+<img/layar_grafikECGdokter.png, id=655, 1084.05pt x 3207.985pt>
+File: img/layar_grafikECGdokter.png Graphic file (type png)
+<use img/layar_grafikECGdokter.png>
+Package pdftex.def Info: img/layar_grafikECGdokter.png  used on input line 229.
+
+(pdftex.def)             Requested size: 117.22356pt x 346.85861pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./img/tabel data ecg.png>]
+<img/layar_grafikECGpasien.png, id=662, 1084.05pt x 3124.67375pt>
+File: img/layar_grafikECGpasien.png Graphic file (type png)
+<use img/layar_grafikECGpasien.png>
+Package pdftex.def Info: img/layar_grafikECGpasien.png  used on input line 237.
+
+(pdftex.def)             Requested size: 117.22356pt x 337.85071pt.
+ [28 <./img/layar_grafikECGdokter.png>] [29 <./img/layar_grafikECGpasien.png>]
+<img/layar_riwayatdiagnosa.png, id=676, 1084.05pt x 2168.1pt>
+File: img/layar_riwayatdiagnosa.png Graphic file (type png)
+<use img/layar_riwayatdiagnosa.png>
+Package pdftex.def Info: img/layar_riwayatdiagnosa.png  used on input line 251.
+
+(pdftex.def)             Requested size: 117.22356pt x 234.42259pt.
+
+Underfull \vbox (badness 2932) has occurred while \output is active []
+
+ [30 <./img/layar_riwayatdiagnosa.png>]
+<img/layar_chatpasien.png, id=683, 1084.05pt x 2168.1pt>
+File: img/layar_chatpasien.png Graphic file (type png)
+<use img/layar_chatpasien.png>
+Package pdftex.def Info: img/layar_chatpasien.png  used on input line 263.
+(pdftex.def)             Requested size: 117.22356pt x 234.42259pt.
+<img/layar_chatdokter.png, id=685, 1084.05pt x 2168.1pt>
+File: img/layar_chatdokter.png Graphic file (type png)
+<use img/layar_chatdokter.png>
+Package pdftex.def Info: img/layar_chatdokter.png  used on input line 271.
+(pdftex.def)             Requested size: 117.22356pt x 234.42259pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31 <./img/layar_chatpasien.png>] [32 <./img/layar_chatdokter.png>]) (bab4.tex
+
+Bab 4.
+
+Overfull \hbox (13.68547pt too wide) in paragraph at lines 11--21
+ [][] 
+ []
+
+[33
+
+
+
+] [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Overfull \hbox (23.8483pt too wide) in paragraph at lines 76--92
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Overfull \hbox (5.39398pt too wide) in paragraph at lines 97--98
+[]\OT1/cmr/m/n/10 Pada pe-ngu-ji-an ini, per-co-ba-an per-ta-ma di-la-ku-kan de
+-ngan meng-
+ []
+
+[37]
+Overfull \hbox (5.40189pt too wide) in paragraph at lines 104--104
+|[]\OT1/cmr/bx/n/12 Pengujian Wak-tu Pe-ngi-rim-an Da-ta Me-nu-ju Da-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+[39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+<img/percob/Slide1.jpg, id=737, 433.62pt x 353.82187pt>
+File: img/percob/Slide1.jpg Graphic file (type jpg)
+<use img/percob/Slide1.jpg>
+Package pdftex.def Info: img/percob/Slide1.jpg  used on input line 151.
+(pdftex.def)             Requested size: 205.14348pt x 167.39227pt.
+<img/percob/Slide2.jpg, id=738, 432.11438pt x 355.3275pt>
+File: img/percob/Slide2.jpg Graphic file (type jpg)
+<use img/percob/Slide2.jpg>
+Package pdftex.def Info: img/percob/Slide2.jpg  used on input line 155.
+(pdftex.def)             Requested size: 205.14348pt x 168.69012pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+<img/percob/Slide11.jpg, id=746, 582.67688pt x 542.025pt>
+File: img/percob/Slide11.jpg Graphic file (type jpg)
+<use img/percob/Slide11.jpg>
+Package pdftex.def Info: img/percob/Slide11.jpg  used on input line 165.
+(pdftex.def)             Requested size: 293.0634pt x 272.6246pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42 <./img/percob/Slide1.jpg> <./img/percob/Slide2.jpg>]
+<img/percob/Slide3.jpg, id=752, 418.56375pt x 352.31625pt>
+File: img/percob/Slide3.jpg Graphic file (type jpg)
+<use img/percob/Slide3.jpg>
+Package pdftex.def Info: img/percob/Slide3.jpg  used on input line 172.
+(pdftex.def)             Requested size: 205.14348pt x 172.6741pt.
+<img/percob/Slide4.jpg, id=753, 440.39531pt x 355.3275pt>
+File: img/percob/Slide4.jpg Graphic file (type jpg)
+<use img/percob/Slide4.jpg>
+Package pdftex.def Info: img/percob/Slide4.jpg  used on input line 176.
+(pdftex.def)             Requested size: 205.14348pt x 165.51834pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./img/percob/Slide11.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+[45 <./img/percob/Slide3.jpg> <./img/percob/Slide4.jpg>]
+<img/percob/Slide12.jpg, id=767, 566.86781pt x 542.025pt>
+File: img/percob/Slide12.jpg Graphic file (type jpg)
+<use img/percob/Slide12.jpg>
+Package pdftex.def Info: img/percob/Slide12.jpg  used on input line 187.
+(pdftex.def)             Requested size: 293.0634pt x 280.2253pt.
+<img/percob/Slide5.jpg, id=769, 420.06938pt x 354.57469pt>
+File: img/percob/Slide5.jpg Graphic file (type jpg)
+<use img/percob/Slide5.jpg>
+Package pdftex.def Info: img/percob/Slide5.jpg  used on input line 195.
+(pdftex.def)             Requested size: 205.14348pt x 173.1588pt.
+<img/percob/Slide6.jpg, id=770, 434.37282pt x 353.06906pt>
+File: img/percob/Slide6.jpg Graphic file (type jpg)
+<use img/percob/Slide6.jpg>
+Package pdftex.def Info: img/percob/Slide6.jpg  used on input line 199.
+(pdftex.def)             Requested size: 205.14348pt x 166.7452pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46 <./img/percob/Slide12.jpg>] [47 <./img/percob/Slide5.jpg> <./img/percob/Sl
+ide6.jpg>]
+<img/percob/Slide13.jpg, id=781, 572.1375pt x 542.025pt>
+File: img/percob/Slide13.jpg Graphic file (type jpg)
+<use img/percob/Slide13.jpg>
+Package pdftex.def Info: img/percob/Slide13.jpg  used on input line 210.
+(pdftex.def)             Requested size: 293.0634pt x 277.6366pt.
+<img/percob/Slide7.jpg, id=783, 419.31656pt x 351.56343pt>
+File: img/percob/Slide7.jpg Graphic file (type jpg)
+<use img/percob/Slide7.jpg>
+Package pdftex.def Info: img/percob/Slide7.jpg  used on input line 216.
+(pdftex.def)             Requested size: 205.14348pt x 171.99399pt.
+<img/percob/Slide8.jpg, id=784, 434.37282pt x 354.57469pt>
+File: img/percob/Slide8.jpg Graphic file (type jpg)
+<use img/percob/Slide8.jpg>
+Package pdftex.def Info: img/percob/Slide8.jpg  used on input line 220.
+(pdftex.def)             Requested size: 205.14348pt x 167.45627pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48 <./img/percob/Slide13.jpg>] [49 <./img/percob/Slide7.jpg> <./img/percob/Sl
+ide8.jpg>]
+<img/percob/Slide14.jpg, id=794, 575.14874pt x 542.025pt>
+File: img/percob/Slide14.jpg Graphic file (type jpg)
+<use img/percob/Slide14.jpg>
+Package pdftex.def Info: img/percob/Slide14.jpg  used on input line 232.
+(pdftex.def)             Requested size: 293.0634pt x 276.18924pt.
+<img/percob/Slide9.jpg, id=796, 416.30531pt x 355.3275pt>
+File: img/percob/Slide9.jpg Graphic file (type jpg)
+<use img/percob/Slide9.jpg>
+Package pdftex.def Info: img/percob/Slide9.jpg  used on input line 239.
+(pdftex.def)             Requested size: 205.14348pt x 175.09334pt.
+<img/percob/Slide10.jpg, id=797, 437.38406pt x 351.56343pt>
+File: img/percob/Slide10.jpg Graphic file (type jpg)
+<use img/percob/Slide10.jpg>
+Package pdftex.def Info: img/percob/Slide10.jpg  used on input line 243.
+(pdftex.def)             Requested size: 205.14348pt x 164.89151pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50 <./img/percob/Slide14.jpg>]
+<img/percob/Slide15.jpg, id=803, 569.87906pt x 542.025pt>
+File: img/percob/Slide15.jpg Graphic file (type jpg)
+<use img/percob/Slide15.jpg>
+Package pdftex.def Info: img/percob/Slide15.jpg  used on input line 253.
+(pdftex.def)             Requested size: 293.0634pt x 278.73659pt.
+ [51 <./img/percob/Slide9.jpg> <./img/percob/Slide10.jpg>]
+Overfull \hbox (3.46178pt too wide) in paragraph at lines 260--268
+ [][] 
+ []
+
+[52 <./img/percob/Slide15.jpg>]
+<img/grafikECGapps.jpg, id=814, 908.39375pt x 1816.7875pt>
+File: img/grafikECGapps.jpg Graphic file (type jpg)
+<use img/grafikECGapps.jpg>
+Package pdftex.def Info: img/grafikECGapps.jpg  used on input line 276.
+(pdftex.def)             Requested size: 131.87762pt x 263.74625pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+<img/ujisesuaidataIDE.jpg, id=821, 1020.06094pt x 402.00188pt>
+File: img/ujisesuaidataIDE.jpg Graphic file (type jpg)
+<use img/ujisesuaidataIDE.jpg>
+Package pdftex.def Info: img/ujisesuaidataIDE.jpg  used on input line 282.
+(pdftex.def)             Requested size: 293.0634pt x 115.49796pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54 <./img/grafikECGapps.jpg>]) [55 <./img/ujisesuaidataIDE.jpg>] [56
+
+] (bab5.tex
+Bab 5.
+
+Overfull \hbox (0.57616pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/10 meng-gu-na-kan sen-sor AD8232 dan ke-mu-di-an di-ki-rimk-an me-
+nu-ju apli-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57
+
+])
+[58] (tugas_akhir.bbl (tugas_akhir.brf)
+\tf@brf=\write9
+\openout9 = `tugas_akhir.brf'.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7
+.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\OT1/cmr/m/n/10 A. wo-rdp-ress, ``Ardu-i-no na-no,'' 2015.  []$\OT1/pcr/m/n/1
+0 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/pcr/m/n/10 / / djukarna4arduino . wordpress . com / 2015 / 01 /
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/10 docdoc, ``Apa itu ka-rdi-o-lo-gi: Gam-bar-an umum,'' 2020.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]$\OT1/pcr/m/n/10 https : / / www . docdoc . com / id / info / specialty /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\OT1/cmr/m/n/10 World He-al-th Or-ga-ni-sa-tionn, ``The top 10 ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\OT1/cmr/m/n/10 u-ses of de-a-th,'' 2018.  []$\OT1/pcr/m/n/10 https : / / www .
+ who .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\OT1/pcr/m/n/10 int / news-[]room / fact-[]sheets / detail /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\OT1/pcr/m/n/10 the-[]top-[]10-[]causes-[]of-[]death$[]\OT1/cmr/m/n/10 , Last a
+cces-sed on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]\OT1/cmr/m/n/10 KEMENTRIAN KE-SE-HAT-AN RE-PU-BLIK IN-DO-NE-
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 31--31
+\OT1/cmr/m/n/10 SIA, ``In-do-ne-sia da-lam ri-si-ko pe-nya-kit ka-rdi-o-vas-ku-
+lar,''
+ []
+
+
+Overfull \hbox (8.26999pt too wide) in paragraph at lines 31--31
+\OT1/pcr/m/n/10 indonesia-[]dalam-[]risiko-[]penyakit-[]kardiovaskular$[]\OT1/c
+mr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\OT1/cmr/m/n/10 F. K. U. Air-lang-ga, ``Pro-fil ka-rdi-o-lo-gi dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/cmr/m/n/10 ke-dok-ter-an vas-ku-lar,'' 2013.  []$\OT1/pcr/m/n/10 https : /
+ /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/pcr/m/n/10 fk . unair . ac . id / archives / 2013 / 10 / 24 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\OT1/pcr/m/n/10 profil-[]kardiologi-[]dan-[]kedokteran-[]vaskular .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]$\OT1/pcr/m/n/10 https : / / www . medicalnewstoday . com / articles /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+\OT1/pcr/m/n/10 halodoc . com / kesehatan / elektrokardiogram-[]ekg$[]\OT1/cmr/
+m/n/10 ,
+ []
+
+[59
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\OT1/cmr/m/n/10 hellosehat, ``Elek-tro-ka-rdi-o-gra-m/e-lek-tro-ka-rdi-o-gra-
+fi (ekg),''
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 53--53
+\OT1/cmr/m/n/10 2019.  []$\OT1/pcr/m/n/10 https : / / hellosehat . com / jantun
+g / aritmia /
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 53--53
+\OT1/pcr/m/n/10 ekg-[]adalah-[]elektrokardiografi/$[]\OT1/cmr/m/n/10 , Last acc
+e-sed on
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 60--60
+[]\OT1/cmr/m/n/10 T. Con-ver-sa-tion, ``Yo-ur ap-ple wa-tch can now re-co-
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 60--60
+\OT1/cmr/m/n/10 rd yo-ur ecg { but what do-es that me-an and can you
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 60--60
+\OT1/cmr/m/n/10 trust it?,'' 2018.  []$\OT1/pcr/m/n/10 https : / / theconversat
+ion . com /
+ []
+
+
+Overfull \hbox (291.26999pt too wide) in paragraph at lines 60--60
+\OT1/pcr/m/n/10 your-[]apple-[]watch-[]can-[]now-[]record-[]your-[]ecg-[]but-[]
+what-[]does-[]that-[]mean-[]and-[]can-[]you-[]trust-[]it-[]103430$[]\OT1/cmr/m/
+n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\OT1/cmr/m/n/10 H. to Ele-ctro-no-cs, ``Pe-man-ta-u-an gra-fik ekg
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/m/n/10 de-ngan sen-sor ekg ad8232 & ardu-i-no,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\OT1/cmr/m/n/10 2019.  []$\OT1/pcr/m/n/10 https : / / how2electronics . com /
+ []
+
+
+Overfull \hbox (9.26999pt too wide) in paragraph at lines 67--67
+\OT1/pcr/m/n/10 ecg-[]monitoring-[]with-[]ad8232-[]ecg-[]sensor-[]arduino/$[]\O
+T1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 73--73
+\OT1/cmr/m/n/10 des,'' 2021.  []$\OT1/pcr/m/n/10 https : / / protosupplies . co
+m / product /
+ []
+
+
+Overfull \hbox (27.26999pt too wide) in paragraph at lines 73--73
+\OT1/pcr/m/n/10 ad8232-[]heart-[]rate-[]monitor-[]module-[]with-[]electrodes/$[
+]\OT1/cmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/pcr/m/n/10 com / hc-[]05-[]pinout-[]specifications-[]datasheet/$[]\OT1/cmr
+/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]\OT1/cmr/m/n/10 techopedia, ``Mo-bi-le ap-pli-ca-tion (mo-bi-le app),'' 2020.
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]$\OT1/pcr/m/n/10 https : / / www . techopedia . com / definition / 2953 /
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 86--86
+\OT1/pcr/m/n/10 mobile-[]application-[]mobile-[]app$[]\OT1/cmr/m/n/10 , Last ac
+ce-sed on
+ []
+
+[60]
+Underfull \hbox (badness 2158) in paragraph at lines 101--101
+[]\OT1/cmr/m/n/10 wikipedia, ``Vi-su-al stu-dio co-de,'' 2021.  []$\OT1/pcr/m/n
+/10 https : / / en .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\OT1/cmr/m/n/10 dicoding, ``Ke-na-pa flut-ter la-yak ka-mu pe-la-ja-ri: 3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\OT1/cmr/m/n/10 alas-an,''  []$\OT1/pcr/m/n/10 https : / / www . dicoding . com
+ / blog /
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 106--106
+\OT1/pcr/m/n/10 kenapa-[]flutter/$[]\OT1/cmr/m/n/10 , Last acce-sed on De-cem-b
+er 2020.
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 111--111
+[]\OT1/cmr/m/n/10 Qwords, ``Pe-nger-ti-an xampp leng-kap de-ngan fung-si dan
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 111--111
+\OT1/cmr/m/n/10 ca-ra in-sta-la-si,'' 2019.  []$\OT1/pcr/m/n/10 https : / / qwo
+rds . com / blog /
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 116--116
+\OT1/pcr/m/n/10 com / company / about-[]postman/$[]\OT1/cmr/m/n/10 , Last acce-
+sed on Juny
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 122--122
+[]\OT1/cmr/m/n/10 M. A. K. Ut-tam U. De-shpan-de, ``Iot ba-sed re-al ti-me
+ []
+
+) [61] [62
+
+] (lainnya/Biografi.tex
+<img/robby.jpg, id=921, 3276.24pt x 4946.48pt>
+File: img/robby.jpg Graphic file (type jpg)
+<use img/robby.jpg>
+Package pdftex.def Info: img/robby.jpg  used on input line 9.
+(pdftex.def)             Requested size: 90.84894pt x 137.1419pt.
+
+Overfull \hbox (2.92903pt too wide) in paragraph at lines 9--11
+ [][] 
+ []
+
+) [63 <./img/robby.jpg>] [64
+
+]
+
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 64.
+See the caption package documentation for explanation.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
+(tugas_akhir.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 289.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
+Package rerunfilecheck Info: File `tugas_akhir.out' has not changed.
+(rerunfilecheck)             Checksum: B5037DA275BB82DC89533E3E3E6AD656;3215.
+Package rerunfilecheck Info: File `tugas_akhir.brf' has not changed.
+(rerunfilecheck)             Checksum: 9FBDB79AC33DF1D4C85D360E258BCFAA;776.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 289.
+ ) 
+Here is how much of TeX's memory you used:
+ 16246 strings out of 481194
+ 258032 string characters out of 2905925
+ 749120 words of memory out of 3000000
+ 31161 multiletter control sequences out of 15000+200000
+ 540590 words of font info for 48 fonts, out of 3000000 for 9000
+ 1162 hyphenation exceptions out of 8191
+ 46i,15n,47p,2042b,506s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/
+Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx9.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbxti10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ASUS/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/ASUS/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/ASUS/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/A
+SUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:
+/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.
+pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a
+.pfb>
+Output written on tugas_akhir.pdf (84 pages, 5402157 bytes).
+PDF statistics:
+ 1028 PDF objects out of 1200 (max. 8388607)
+ 256 named destinations out of 1000 (max. 500000)
+ 575 words of extra memory for PDF output out of 10000 (max. 10000000)
+

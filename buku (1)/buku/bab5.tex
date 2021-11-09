@@ -1,0 +1,38 @@
+\chapter{PENUTUP}
+\vspace{1ex}
+
+\section{Kesimpulan}
+\vspace{1ex}
+Pada penelitian ini, dilakukan pengambilan data ECG dengan menggunakan sensor AD8232 dan kemudian dikirimkan menuju aplikasi android melalui modul bluetooth HC-05. Pengambilan data tersebut dilakukan selama 15 menit. Setelah semua data diterima oleh aplikasi, data kemudian akan diupload menuju database. Data yang telah diupload di database dapat diakses oleh Dokter Spesialis agar dapat diberi diagnosa melalui aplikasi android. Aplikasi android juga memiliki fitur chat sehingga pasien dapat berkonsultasi dengan dokter.
+
+Dari hasil pengujian yang sudah dilakukan pada bab sebelumnya, dapat ditarik beberapa kesimpulan sebagai berikut:
+\begin{enumerate}[nolistsep]
+	
+	\item Aplikasi sudah dapat merekam data ECG dari arduino melalui modul bluetooth HC-05, menampilkan garfik ECG, chatting.
+	
+	\item Hasil pengujian untuk menghitung data yang hilang menunjukkan bahwa data yang hilang setiap sampling adalah kurang dari 1\%.
+	
+	\item Dari hasil pengujian kesesuaian grafik ECG menunjukkan bahwa hasil grafik ECG yang ditampilkan oleh aplikasi sudah cukup sesuai.
+	
+	\item Aplikasi dapat merekam data selama 15 menit dengan frekuensi sampling 50 sampel per detik yaitu menggunakan baudrate 9600 pada HC-05 dan delay 10 ms pada arduino
+	
+	\item Semakin besar frekuensi sampling maka semakin besar kemungkinan force close pada aplikasi
+	
+	\item Durasi upload data menuju database tergantung pada kondisi jaringan internet
+	
+
+	
+
+\end{enumerate}
+\vspace{1ex}
+
+\section{Saran}
+\vspace{1ex}
+
+Untuk pengembangan penelitian selanjutnya terdapat beberapa saran sebagai berikut :
+\vspace{1ex}
+\begin{enumerate}[nolistsep]
+	\item Mengirim data ECG menuju aplikasi selain menggunakan bluetooth,
+	\item Menambah fitur aplikasi untuk dapat mendeteksi adanya aritmia dari data ECG hasil rekaman.
+\end{enumerate}
+

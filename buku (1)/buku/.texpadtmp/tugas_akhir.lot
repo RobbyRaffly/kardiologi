@@ -1,0 +1,28 @@
+\select@language {indonesian}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Spesifikasi dari \textit {controller} dan \textit {compute node}\relax }}{13}{table.caption.11}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Spesifikasi dari \textit {storage node}\relax }}{13}{table.caption.12}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Jumlah spesifikasi dari empat \textit {compute node}\relax }}{49}{table.caption.43}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Spesifikasi (flavor) dari mesin virtual\relax }}{50}{table.caption.44}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Spesifikasi dari komputer yang akan dibandingkan\relax }}{50}{table.caption.45}
+\contentsline {table}{\numberline {4.4}{\ignorespaces \textit {Flavor} mesin virtual untuk mengukur performa komputasi.\relax }}{51}{table.caption.46}
+\contentsline {table}{\numberline {4.5}{\ignorespaces \textit {Flavor} mesin virtual untuk mengukur performa memori.\relax }}{51}{table.caption.47}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Waktu pemrosesan beban kerja antara mesin virtual dan komputer\relax }}{52}{table.caption.48}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Waktu pemrosesan beban kerja pada mesin virtual\relax }}{54}{table.caption.50}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Hasil pengujian memori \textit {bandwidth} pada komputer dan mesin virtual\relax }}{55}{table.caption.52}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Hasil pengujian performa memori \textit {bandwidth} pada mesin virtual\relax }}{56}{table.caption.54}
+\contentsline {table}{\numberline {4.10}{\ignorespaces Hasil pengujian kecepatan proses encoding\relax }}{58}{table.caption.56}
+\contentsline {table}{\numberline {4.11}{\ignorespaces Waktu yang diperlukan saat \textit {encoding}\relax }}{59}{table.caption.58}
+\contentsline {table}{\numberline {4.12}{\ignorespaces Hasil pengujian penyimpanan dengan Aio-Stress\relax }}{61}{table.caption.60}
+\contentsline {table}{\numberline {4.13}{\ignorespaces Hasil pengujian peyimpanan dengan FIO\relax }}{62}{table.caption.62}
+\contentsline {table}{\numberline {4.14}{\ignorespaces Hasil pengujian \textit {throughput} memori saat mengolah data \textit {integer} pada mesin virtual dan komputer\relax }}{64}{table.caption.64}
+\contentsline {table}{\numberline {4.15}{\ignorespaces Hasil pengujian \textit {throughput} memori saat mengolah \textit {floating-point} pada mesin virtual dan komputer\relax }}{64}{table.caption.65}
+\contentsline {table}{\numberline {4.16}{\ignorespaces Hasil pengujian \textit {througput} saat memproses data \textit {integer} pada mesin virtual\relax }}{65}{table.caption.67}
+\contentsline {table}{\numberline {4.17}{\ignorespaces Hasil pengujian \textit {througput} saat memproses \textit {floating-point} pada mesin virtual\relax }}{65}{table.caption.68}
+\contentsline {table}{\numberline {4.18}{\ignorespaces Hasil perbandingan kecepatan \textit {cache} memori antara mesin virtual dengan komputer\relax }}{68}{table.caption.72}
+\contentsline {table}{\numberline {4.19}{\ignorespaces Hasil perbandingan \textit {bandwidth} \textit {cache} memori pada mesin virtual\relax }}{69}{table.caption.74}
+\contentsline {table}{\numberline {4.20}{\ignorespaces Hasil pengujian mesin virtual dan komputer sebagai \textit {webserver} dengan Apache Benchmark\relax }}{70}{table.caption.76}
+\addvspace {10\p@ }

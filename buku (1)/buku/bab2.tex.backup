@@ -1,0 +1,76 @@
+\chapter{TINJAUAN PUSTAKA}
+\vspace{1ex}
+
+\section*{}
+Demi mendukung penelitian ini, dibutuhkan beberapa teori penunjang sebagai bahan acuan dan refrensi. Dengan demikian penelitian ini menjadi lebih terarah.
+\vspace{1ex}
+
+\section{Pesawat Tanpa Awak}
+\vspace{lex}
+
+\vspace{lex}
+Sistem pesawat tanpa awak [5] (\textit{unmanned aerial vehicle}) adalah miniatur pesawat yang dioperasikan tanpa pilot dan terbang secara \textit{autonomously} yang dipandu dengan perangkat \textit{Global Positioning System} (GPS) yang terpasang pada bagian dalam pesawat. Pesawat tanpa awak memiliki gimbal berupa \textit{3 axis gyro sensor} dan \textit{magnetometer} di dalam \textit{autopilot microchip} yang berfungsi untuk menyetabilkan pesawat ketika terbang. Sistem tersebut dipantau secara jarak jauh pada \textit{Ground Control Station} menggunakan gelombang radio.
+\vspace{lex}
+
+Antena pada GSC akan mengtransmisikan sebuah \textit{link communication} ke pesawat tanpa awak dan pesawat tanpa awak akan mengtransmisikan kembali ke GSC dengan mengirimkan informasi lokasi, ketinggian dan kecepatan.
+\vspace{lex}
+
+\begin{figure} [!htb] \centering
+	\includegraphics[scale=0.7]{img/2_0.png}
+	\caption{Hubungan kategori pesawat tanpa awak, berat, jarak tempuh, ketinggian terbang dan daya tahan terbang.}
+	\label{fig:2_1}
+\end{figure}
+
+Ketinggian penerbangan pesawat tanpa awak mulai rentang 1 meter hingga 300 meter dari tanah dan terbang di bawah awan. Lokasi penerbangan yang cocok ialah pada tanah yang datar untuk mengindari citra yang terdistorsi. Waktu penerbangan tergantung dari pemakaian sumber energi. Pada umumnya pesawat tanpa awak yang menggunakan bahan bakar minyak lebih dapat bertahan lebih lama daripada yang menggunakan baterai. Untuk sebuah pesawat tanpa awak yang berukuran kecil [6] (1 - 2 kilogram) yang menggunakan baterai, waktu terbang yang dicapai adalah selama 23 menit.
+\vspace{lex}
+
+\section{Volume Lalu Lintas}
+\vspace{1ex}
+Volume lalu lintas adalah banyaknya kendaraan yang melewati suatu titik atau garis tertentu pada suatu penampang melintang jalan.Data pencacahan volume lalu lintas adalah informasi yang diperlukan untuk fase perencanaan, desain, manajemen sampai pengoperasian jalan (Sukirman 1994).
+\vspace{1ex}
+
+Menurut Sukirman (1994)[2], volume lalu lintas menunjukan jumlah kendaraan yang melintasi satu titik pengamatan dalam satu satuan waktu (hari, jam, menit). Sehubungan dengan penentuan jumlah dan lebar jalur, satuan volume lalu lintas yang umum dipergunakan adalah lalu lintas harian rata-rata, volume jam perencanaan dan kapasitas. Kendaraan tak bermotor (sepeda, becak dan kereta dorong), parkir pada badan jalan dan pejalan kaki anggap sebagai hambatan samping.
+\vspace{1ex}
+
+Jenis kendaraan bermotor dalam perhitungan ini diklasifikasikan dalam tiga macam kendaraan[3] yaitu :
+\vspace{1ex}
+
+\begin{enumerate}[nolistsep]
+	\item Kendaraan Ringan (\textit{Light Vechicles} = LV ) Indeks untuk kendaraan bermotor dengan empat roda (mobil penumpang), jenis sedan (mobil pribadi), angkot, bus mini, pick-up/box dan
+truk mini.
+	\item Kendaraan berat (\textit{Heavy Vechicles} = HV ) Indeks untuk kendaraan bermotor dengan roda lebih dari empat ( Bus, truk dua gandar, truk tiga gandar dan kombinasi yang sesuai),
+	\item Sepeda motor (\textit{Motor Cycle} = MC ) Indeks untuk kendaraan bermotor dengan dua roda.
+\end{enumerate}
+
+Pengambilan data kinerja lalu lintas Kota Surabaya (2012) [3] yang dilakukan secara manual dilakukan selama waktu 16 jam. Pencacahan dimulai pukul 05.00 - 21.00  WIB dengan interval 10 menit.
+\vspace{1ex}
+
+\vspace{1ex}
+	
+\section{Background Substraction}
+\vspace{1ex}
+\textit{Background Substraction} adalah proses pengenalan objek dalam citra digital. Proses pengenalan objek dilakukan dengan cara mengurangi citra digital latar dengan hasil \textit{background substraction} dengan faktor sifat homogen dengan faktor tingkat keabuan dari suatu citra digital. Sehigga didapatkan citra \textit{digital foreground}.
+\vspace{1ex}
+
+Metode luasan piksel digunakan pada proses pendeteksian kendaraan. Pada proses ini, ada tidaknya kendaraan yang melintas pada daerah deteksi ditentukan oleh jumlah luasan piksel pada daerah deteksi. Proses pertama yang dilakukan adalah menghitung jumlah piksel dengan nilai 255 atau putih. Jumlah perhitungan dilakukan sebanyak luas ROI ( \textit{region of interest} ) atau daerah pendeteksian.
+\vspace{1ex}
+
+\section{Image Alignment}
+\vspace{1ex}
+\textit{Image alignment}[5] adalah metode untuk menyelaraskan citra digital yang mengalami perbedaan skala atau kecondongan menggunakan homografi. Homografi adalah kesamaan fitur yang dimiliki oleh citra digital dan kondisi di dunia nyata. Terdapat empat buah penanda yang dipasang pada pinggir jalan membentuk persegi panjang. Penanda tersebut berwarna kuning dengan saturasi yang tinggi sehingga kontras dengan warna lingkungan jalan. Kegunaan dari penanda yakni sebagai patokan untuk proses \textit{cropping} citra.
+\vspace{1ex}
+
+\begin{figure} [!htb] \centering
+	\includegraphics[scale=0.7]{img/2_1.png}
+	\caption{Contoh dua gambar yang memiliki kesamaan fitur.}
+	\label{fig:2_2}
+\end{figure}
+
+Metode ini diperlukan tiga atau lebih fitur homografi yang dapat dibandingkan. Pustaka \textit{image alignment} akan menentukan fitur yang sama dari dua gambar yang dibandingkan, Sehingga dapat dihasilkan korespondensi dari fitur tersebut.
+\vspace{1ex}
+
+\begin{figure} [!htb] \centering
+	\includegraphics[scale=0.7]{img/2_2.png}
+	\caption{Hasil penerapan \textit{image alignment}. }
+	\label{fig:2_3}
+\end{figure}

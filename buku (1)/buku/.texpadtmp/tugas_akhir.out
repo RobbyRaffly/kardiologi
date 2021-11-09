@@ -1,0 +1,49 @@
+\BOOKMARK [0][-]{section*.1}{Abstrak}{}% 1
+\BOOKMARK [0][-]{section*.1}{Abstract}{}% 2
+\BOOKMARK [0][-]{section*.1}{KATA PENGANTAR}{}% 3
+\BOOKMARK [0][-]{Item.5}{DAFTAR ISI}{}% 4
+\BOOKMARK [0][-]{chapter*.2}{DAFTAR GAMBAR}{}% 5
+\BOOKMARK [0][-]{chapter*.3}{DAFTAR TABEL}{}% 6
+\BOOKMARK [0][-]{chapter*.4}{DAFTAR KODE}{}% 7
+\BOOKMARK [0][-]{chapter.1}{1 PENDAHULUAN}{}% 8
+\BOOKMARK [1][-]{section.1.1}{1.1 Latar belakang}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.2}{1.2 Permasalahan}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.3}{1.3 Tujuan}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.4}{1.4 Batasan masalah}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.5}{1.5 Sistematika Penulisan}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.6}{1.6 Relevansi}{chapter.1}% 14
+\BOOKMARK [0][-]{chapter.2}{2 TINJAUAN PUSTAKA}{}% 15
+\BOOKMARK [1][-]{section.2.1}{2.1 Volume Lalu Lintas}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.2}{2.2 Background Substraction}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.3}{2.3 Image Alignment}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{3 DESAIN DAN IMPLEMENTASI SISTEM}{}% 19
+\BOOKMARK [1][-]{section.3.1}{3.1 Desain Sistem}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{3.2 Desain Jaringan}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{3.3 Alur Implementasi Sistem}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{3.4 Perangkat Keras dan Sistem Operasi}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.5}{3.5 Pembuatan Controller Node}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 Keystone \(Identity Service\)}{section.3.5}% 25
+\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 Glance \(Image Service\)}{section.3.5}% 26
+\BOOKMARK [2][-]{subsection.3.5.3}{3.5.3 Nova \(Compute\) pada Controller}{section.3.5}% 27
+\BOOKMARK [2][-]{subsection.3.5.4}{3.5.4 Cinder \(Block Storage Service\)}{section.3.5}% 28
+\BOOKMARK [1][-]{section.3.6}{3.6 Pembuatan Compute Node}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.7}{3.7 Pembuatan Horizon \(Dashboard\)}{chapter.3}% 30
+\BOOKMARK [0][-]{chapter.4}{4 PENGUJIAN DAN ANALISA}{}% 31
+\BOOKMARK [1][-]{section.4.1}{4.1 Pengujian Layanan}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Uji Coba Keystone \(Identity Service\)}{section.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Uji Coba Glance \(Image Service\)}{section.4.1}% 34
+\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 Uji Coba Nova \(Compute Service\)}{section.4.1}% 35
+\BOOKMARK [2][-]{subsection.4.1.4}{4.1.4 Uji Coba Mesin Virtual \(Instance\)}{section.4.1}% 36
+\BOOKMARK [2][-]{subsection.4.1.5}{4.1.5 Uji Coba Cider \(Block Storage Service\)}{section.4.1}% 37
+\BOOKMARK [1][-]{section.4.2}{4.2 Pengujian Topologi Jaringan}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.3}{4.3 Kemampuan Maksimal Komputasi Awan}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.4}{4.4 Perbandingan Performa Mesin Virtual}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Performa Komputasi \(CPU\)}{section.4.4}% 41
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Performa Penyimpanan}{section.4.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.3}{4.4.3 Performa Memori \(RAM\)}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.4}{4.4.4 Apache Benchmark}{section.4.4}% 44
+\BOOKMARK [0][-]{chapter.5}{5 PENUTUP}{}% 45
+\BOOKMARK [1][-]{section.5.1}{5.1 Kesimpulan}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.2}{5.2 Saran}{chapter.5}% 47
+\BOOKMARK [0][-]{Item.51}{DAFTAR PUSTAKA}{}% 48
+\BOOKMARK [0][-]{figure.caption.79}{Biografi Penulis}{}% 49

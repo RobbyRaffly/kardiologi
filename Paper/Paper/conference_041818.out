@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Latar Belakang}{}% 1
+\BOOKMARK [1][-]{section.2}{Desain dan Implementasi}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Desain UI Aplikasi}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Desain Database}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Akuisisi Data}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Perekaman Data}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Penyimpanan Data}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Menampilkan Data}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Diagnosa Data}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{Fitur Chat}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Pengujian dan Hasil}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Pengujian Frekuensi Sampling}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Pengujian Kesesuian Grafik ECG}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Pengujian Waktu Pengiriman Data Menuju Database}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Kesimpulan}{}% 15
+\BOOKMARK [1][-]{section*.16}{References}{}% 16

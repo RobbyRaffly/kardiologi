@@ -1,0 +1,1991 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.27)  5 JUL 2015 03:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Abstract.tex
+(./Abstract.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 12 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--1
+[] 
+ []
+
+! Undefined control sequence.
+l.2 \Large
+          \textbf{ABSTRACT}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (64.56909pt too wide) in paragraph at lines 2--3
+ \OT1/cmr/bx/n/10 ABSTRACT 
+ []
+
+
+! LaTeX Error: Environment adjustwidth undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \begin{adjustwidth}
+                       {-0.2cm}{}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 7.
+Missing character: There is no N in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+
+Overfull \hbox (31.07202pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/it/10 Virtual
+ []
+
+
+Overfull \hbox (17.65544pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 Ma-
+ []
+
+
+Overfull \hbox (22.99985pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 chine
+ []
+
+
+Overfull \hbox (19.17763pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 Per-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (27.59981pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 mance
+ []
+
+
+Overfull \hbox (21.74428pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 Mea-
+ []
+
+
+Overfull \hbox (21.33871pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 sure-
+ []
+
+
+Overfull \hbox (21.72208pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 ment
+ []
+
+
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 on
+ []
+
+
+Overfull \hbox (25.29985pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 Cloud
+ []
+
+
+Overfull \hbox (24.02206pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 Com-
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 put-
+ []
+
+
+Overfull \hbox (14.17352pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 ing| 
+ []
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{adjustwidth}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{adjustwidth}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--16
+[]
+ []
+
+
+Overfull \hbox (41.67473pt too wide) in paragraph at lines 6--16
+[]
+ []
+
+
+Overfull \hbox (43.32748pt too wide) in paragraph at lines 17--19
+[]\OT1/cmr/m/it/10 Beginning
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 di-
+ []
+
+
+Overfull \hbox (22.10538pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 verse
+ []
+
+
+Overfull \hbox (18.91095pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 need
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 pu-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ta-
+ []
+
+
+Overfull \hbox (20.18877pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tion,
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (22.74431pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 cloud
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 put-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 was
+ []
+
+
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 built
+ []
+
+
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 to
+ []
+
+
+Overfull \hbox (14.56657pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ful-
+ []
+
+
+Overfull \hbox (11.24438pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fill
+ []
+
+
+Overfull \hbox (22.23318pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 those
+ []
+
+
+Overfull \hbox (26.06647pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 needs.
+ []
+
+
+Overfull \hbox (25.29985pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Cloud
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 put-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (15.33324pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 one
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (10.4777pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 its
+ []
+
+
+Overfull \hbox (16.4832pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ser-
+ []
+
+
+Overfull \hbox (16.35541pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vice
+ []
+
+
+Overfull \hbox (17.37762pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 type
+ []
+
+
+Overfull \hbox (28.11093pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 named
+ []
+
+
+Overfull \hbox (19.69989pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 IaaS
+ []
+
+
+Overfull \hbox (17.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 (In-
+ []
+
+
+Overfull \hbox (19.54985pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fras-
+ []
+
+
+Overfull \hbox (21.08316pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 truc-
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ture
+ []
+
+
+Overfull \hbox (9.19995pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 as
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (18.01653pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Ser-
+ []
+
+
+Overfull \hbox (20.44427pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vice)
+ []
+
+
+Overfull \hbox (14.31104pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 has
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ad-
+ []
+
+
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 van-
+ []
+
+
+Overfull \hbox (17.6332pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tage
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 not
+ []
+
+
+Overfull \hbox (22.4887pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 need-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (22.7443pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 phys-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (11.75546pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 cal
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (25.68315pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 puter,
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (16.86653pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 eas-
+ []
+
+
+Overfull \hbox (10.4777pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ily
+ []
+
+
+Overfull \hbox (33.22198pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 change-
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 able
+ []
+
+
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 con-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fig-
+ []
+
+
+Overfull \hbox (8.94438pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 u-
+ []
+
+
+Overfull \hbox (12.39433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ra-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vir-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tual
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (26.0665pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 chine.
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 per-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (27.59981pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mance
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mea-
+ []
+
+
+Overfull \hbox (17.24988pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sur-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (16.86658pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 also
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 done
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (20.5721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 form
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (22.74431pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 cloud
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 put-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 var-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (14.56659pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ous
+ []
+
+
+Overfull \hbox (20.95537pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 spec-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (24.27763pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tions,
+ []
+
+
+Overfull \hbox (25.17203pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 more-
+ []
+
+
+Overfull \hbox (18.52763pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 over
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vir-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tual
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (30.15536pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 chine's
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 per-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (27.59981pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mance
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (22.61647pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 pared
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (22.6165pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 puter
+ []
+
+
+Overfull \hbox (18.39987pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 hav-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (18.911pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sim-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (11.88326pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 lar
+ []
+
+
+Overfull \hbox (20.95537pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 spec-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (24.27763pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tions.
+ []
+
+
+Overfull \hbox (7.17772pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 It
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 done
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (12.90546pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 or-
+ []
+
+
+Overfull \hbox (13.92767pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 der
+ []
+
+
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 to
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ob-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tain
+ []
+
+
+Overfull \hbox (14.94986pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ref-
+ []
+
+
+Overfull \hbox (12.39433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 er-
+ []
+
+
+Overfull \hbox (26.06647pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ences,
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (20.5721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 form
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 per-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (27.59981pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mance
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 par-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (14.82214pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 son
+ []
+
+
+Overfull \hbox (12.26654pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 be-
+ []
+
+
+Overfull \hbox (24.27759pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tween
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vir-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tual
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (26.0665pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 chine,
+ []
+
+
+Overfull \hbox (24.53319pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 which
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (22.74431pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 cloud
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 put-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (16.4832pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ser-
+ []
+
+
+Overfull \hbox (19.42206pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vice,
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (24.02206pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Com-
+ []
+
+
+Overfull \hbox (22.6165pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 puter
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 of
+ []
+
+
+Overfull \hbox (18.911pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sim-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (11.88326pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 lar
+ []
+
+
+Overfull \hbox (20.95537pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 spec-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (24.27763pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tions.
+ []
+
+
+Overfull \hbox (25.29985pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Cloud
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (17.37766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 put-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (18.91098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 built
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (26.06648pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Open-
+ []
+
+
+Overfull \hbox (23.25539pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Stack
+ []
+
+
+Overfull \hbox (9.19995pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 as
+ []
+
+
+Overfull \hbox (10.4777pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 its
+ []
+
+
+Overfull \hbox (21.97766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 main
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Op-
+ []
+
+
+Overfull \hbox (12.39433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 er-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 at-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (18.14432pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Sys-
+ []
+
+
+Overfull \hbox (19.16653pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tem.
+ []
+
+
+Overfull \hbox (24.42761pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Users
+ []
+
+
+Overfull \hbox (14.82211pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 can
+ []
+
+
+Overfull \hbox (16.86658pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 also
+ []
+
+
+Overfull \hbox (16.86653pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 eas-
+ []
+
+
+Overfull \hbox (10.4777pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ily
+ []
+
+
+Overfull \hbox (28.11092pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 choose
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 op-
+ []
+
+
+Overfull \hbox (12.39433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 er-
+ []
+
+
+Overfull \hbox (12.01102pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 at-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (16.611pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sys-
+ []
+
+
+Overfull \hbox (16.09988pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tem
+ []
+
+
+Overfull \hbox (31.17752pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 needed,
+ []
+
+
+Overfull \hbox (18.39986pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 con-
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fig-
+ []
+
+
+Overfull \hbox (13.6721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ure
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (28.11087pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 needed
+ []
+
+
+Overfull \hbox (20.95537pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 spec-
+ []
+
+
+Overfull \hbox (6.6444pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 i-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (24.27763pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tions,
+ []
+
+
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 and
+ []
+
+
+Overfull \hbox (15.20546pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 run
+ []
+
+
+Overfull \hbox (6.38884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 it
+ []
+
+
+Overfull \hbox (32.32755pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 through
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (19.42207pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 web-
+ []
+
+
+Overfull \hbox (15.07767pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 site
+ []
+
+
+Overfull \hbox (12.26659pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in-
+ []
+
+
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ter-
+ []
+
+
+Overfull \hbox (19.93318pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 face.
+ []
+
+
+Overfull \hbox (18.29431pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Vir-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tual
+ []
+
+
+Overfull \hbox (17.65544pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Ma-
+ []
+
+
+Overfull \hbox (30.15536pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 chine's
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 per-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (27.59981pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mance
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mea-
+ []
+
+
+Overfull \hbox (22.36093pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sured
+ []
+
+
+Overfull \hbox (13.03325pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 us-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (42.21642pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Phoronix,
+ []
+
+
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 an
+ []
+
+
+Overfull \hbox (19.9332pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 open
+ []
+
+
+Overfull \hbox (26.96089pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 source
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ap-
+ []
+
+
+Overfull \hbox (14.31102pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 pli-
+ []
+
+
+Overfull \hbox (12.77766pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ca-
+ []
+
+
+Overfull \hbox (17.12212pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (12.39436pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 for
+ []
+
+
+Overfull \hbox (27.59978pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 bench-
+ []
+
+
+Overfull \hbox (25.17206pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mark.
+ []
+
+
+Overfull \hbox (39.14977pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Phoronix
+ []
+
+
+Overfull \hbox (21.46655pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 owns
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 130
+ []
+
+
+Overfull \hbox (22.48872pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tests,
+ []
+
+
+Overfull \hbox (14.82211pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 like
+ []
+
+
+Overfull \hbox (10.73325pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 C-
+ []
+
+
+Overfull \hbox (16.74988pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Ray
+ []
+
+
+Overfull \hbox (24.53319pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 which
+ []
+
+
+Overfull \hbox (14.82211pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 can
+ []
+
+
+Overfull \hbox (8.6888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 be
+ []
+
+
+Overfull \hbox (18.65543pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 used
+ []
+
+
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 to
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mea-
+ []
+
+
+Overfull \hbox (17.76097pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sure
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (24.14983pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 work-
+ []
+
+
+Overfull \hbox (17.37767pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 load
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 pro-
+ []
+
+
+Overfull \hbox (16.35541pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ces-
+ []
+
+
+Overfull \hbox (16.48323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sor.
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 The
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mea-
+ []
+
+
+Overfull \hbox (21.33871pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sure-
+ []
+
+
+Overfull \hbox (21.72208pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ment
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (15.33324pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sult
+ []
+
+
+Overfull \hbox (20.95544pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 show
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 that
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (15.46098pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 vir-
+ []
+
+
+Overfull \hbox (16.35545pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 tual
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (22.99985pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 chine
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 per-
+ []
+
+
+Overfull \hbox (15.9721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (27.59981pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mance
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 on
+ []
+
+
+Overfull \hbox (13.92767pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 par
+ []
+
+
+Overfull \hbox (18.14433pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 with
+ []
+
+
+Overfull \hbox (24.02206pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Com-
+ []
+
+
+Overfull \hbox (25.68315pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 puter.
+ []
+
+
+Overfull \hbox (14.961pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Ev-
+ []
+
+
+Overfull \hbox (13.6721pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ery
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 1
+ []
+
+
+Overfull \hbox (17.50539pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 core
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (21.37209pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 CPU
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 af-
+ []
+
+
+Overfull \hbox (19.1665pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 fects
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 the
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 re-
+ []
+
+
+Overfull \hbox (23.76648pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 duced
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 pro-
+ []
+
+
+Overfull \hbox (20.44427pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 cess-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (19.16653pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 time
+ []
+
+
+Overfull \hbox (36.28867pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 amount-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (8.43327pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 to
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 18
+ []
+
+
+Overfull \hbox (4.08887pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 s
+ []
+
+
+Overfull \hbox (24.53319pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 which
+ []
+
+
+Overfull \hbox (7.15552pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 is
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 mea-
+ []
+
+
+Overfull \hbox (22.36093pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 sured
+ []
+
+
+Overfull \hbox (13.03325pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 us-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (10.73325pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 C-
+ []
+
+
+Overfull \hbox (19.81653pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/it/10 Ray.
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no K in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2])
+! Emergency stop.
+<*> Abstract.tex
+                
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 494724
+ 258 string characters out of 6174697
+ 57786 words of memory out of 5000000
+ 3460 multiletter control sequences out of 15000+600000
+ 4294 words of font info for 16 fonts, out of 8000000 for 9000
+ 102 hyphenation exceptions out of 8191
+ 19i,9n,12p,1341b,159s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,2 @@
+//31 Mei 2021//
+Menampilkan sinyal ecg dari menit sekian sampai detik sekian, untuk minggu depan utamakan buku TA 

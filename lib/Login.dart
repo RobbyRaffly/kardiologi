@@ -68,6 +68,9 @@ class _LoginState extends State<Login> {
       //Navigator.pushReplacementNamed(context, '/root_page');
       id_user = id;
       role = roleBaru;
+      role == "0"
+          ? id_pasien = data['id_pasien'].toString()
+          : id_doctor = data['id_dokter'].toString();
       username = usernameBaru;
       name = nameBaru;
       foto_profil = data['foto_profil'].toString();
@@ -82,6 +85,14 @@ class _LoginState extends State<Login> {
         ),
       );
       print(pesan);
+      print("login id user =" +
+          id_user.toString() +
+          ", role =" +
+          role.toString() +
+          ", id pasien =" +
+          id_pasien.toString() +
+          ", id_dokter=" +
+          id_doctor.toString());
     } else {
       print(pesan);
       Fluttertoast.showToast(msg: "login gagal");

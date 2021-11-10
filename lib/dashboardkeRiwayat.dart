@@ -8,6 +8,7 @@ import 'package:intl/date_symbol_data_local.dart';
 import 'package:haloecg/ChartECG.dart';
 import 'package:haloecg/RiwayatDiagnosa.dart';
 import 'package:flutter_multi_formatter/flutter_multi_formatter.dart';
+import 'package:haloecg/widget/loading.dart';
 
 class dashRiwayatECG extends StatefulWidget {
   @override
@@ -24,6 +25,7 @@ class _dashRiwayatECGState extends State<dashRiwayatECG> {
     super.initState();
   }
 
+  Loading _load;
   List datadashRiwayatECG = [];
 
   void ambilDatadashRiwayatECG() async {
@@ -31,18 +33,19 @@ class _dashRiwayatECGState extends State<dashRiwayatECG> {
     if (role == "0") {
       var url = link + "RiwayatECG.php";
       response = await http.post(url, body: {
-        "id_pasien": "${id_user}",
+        "id_pasien": "${id_pasien}",
         "bulan": "${bulan.text}",
         "tahun": "${tahun.text}"
       });
     } else {
       var url = link + "RiwayatECGuntukDokter.php";
       response = await http.post(url, body: {
-        "id_dokter": "${id_user}",
+        "id_dokter": "${id_doctor}",
         "bulan": "${bulan.text}",
         "tahun": "${tahun.text}"
       });
     }
+
     print(response);
 
     setState(() {
@@ -58,9 +61,6 @@ class _dashRiwayatECGState extends State<dashRiwayatECG> {
       onTap: () {
         role == "0"
             ? id_doctor = '${datadashRiwayatECG[index]["id_dokter"]}'
-            : id_doctor = id_user;
-        role == "0"
-            ? id_pasien = id_user
             : id_pasien = '${datadashRiwayatECG[index]["id_pasien"]}';
         doctor_name = '${datadashRiwayatECG[index]["nama_lengkap"]}';
         tanggallihatgrafik = '${datadashRiwayatECG[index]["tanggal"]}';

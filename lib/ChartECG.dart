@@ -54,8 +54,8 @@ class _ChartECGsignalState extends State<ChartECGsignal> {
       print("isi diagnosa = " + controllerDiagnosa.text);
       print("tanggal diagnosa = " + tanggal_diagnosa.toString());
       print("waktu diagnosa = " + jam.toString());
-      print("id user = " + id_pasien.toString());
-      print("id dokter = " + id_user.toString());
+      print("id pasien = " + id_pasien.toString());
+      print("id dokter = " + id_doctor.toString());
       print("menit0: " +
           menitawal.toString() +
           " detik0: " +
@@ -69,8 +69,8 @@ class _ChartECGsignalState extends State<ChartECGsignal> {
         "isi_diagnosa": controllerDiagnosa.text,
         "tanggal_diagnosa": tanggal_diagnosa.toString(),
         "waktu_diagnosa": jam.toString(),
-        "id_user": id_pasien.toString(),
-        "id_dokter": id_user.toString(),
+        "id_pasien": id_pasien.toString(),
+        "id_dokter": id_doctor.toString(),
         "menit0": menitawal.toString(),
         "detik0": detikawal.toString(),
         "menit1": menitakhir.toString(),
@@ -142,7 +142,7 @@ class _ChartECGsignalState extends State<ChartECGsignal> {
 
     try {
       var response = await http.post(url, body: {
-        "id_user": id_user.toString(),
+        "id_pasien": id_pasien.toString(),
         "id_dokter": id_doctor.toString(),
         "menit": menit.text,
         "detik": detik.text,

@@ -43,10 +43,9 @@ class _HomePasienPage extends State<HomePasien> {
     String value = data['value'];
     String pesan = data['message'];
     String roleBaru = data['role'].toString();
-    String id;
-    role == "0"
-        ? id = data['id_pasien'].toString()
-        : id = data['id_dokter'].toString();
+    String id = data['id_user'].toString();
+    ;
+
     String usernameBaru = data['username'].toString();
     String nameBaru = data['name'].toString();
     //_load.hide();
@@ -54,6 +53,9 @@ class _HomePasienPage extends State<HomePasien> {
       //Navigator.pushReplacementNamed(context, '/root_page');
       id_user = id;
       role = roleBaru;
+      role == "0"
+          ? id_pasien = data['id_pasien'].toString()
+          : id_doctor = data['id_dokter'].toString();
       username = usernameBaru;
       name = nameBaru;
       foto_profil = data['foto_profil'].toString();

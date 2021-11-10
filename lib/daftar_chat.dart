@@ -49,8 +49,8 @@ class _DaftarChat extends State<DaftarChat> {
       onTap: () {
         id_penerima = "${dataRiwayatChat[index]["id_user"]}";
         role == "0"
-            ? {id_pasien = id_user, id_doctor = id_penerima}
-            : {id_pasien = id_penerima, id_doctor = id_user};
+            ? {id_doctor = "${dataRiwayatChat[index]["id_dokter"]}"}
+            : {id_pasien = "${dataRiwayatChat[index]["id_pasien"]}"};
         print("id pasien = " +
             id_pasien.toString() +
             ", id dokter = " +

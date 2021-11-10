@@ -28,20 +28,25 @@ class _RiwayatECGState extends State<RiwayatECG> {
 
   void ambilDataRiwayatECG() async {
     var response;
+    print("id pasien = " +
+        id_pasien.toString() +
+        ", id dokter = " +
+        id_doctor.toString());
     if (role == "0") {
       var url = link + "RiwayatECGkususP.php";
       response = await http.post(url, body: {
-        "id_pasien": "${id_user}",
+        "id_pasien": "${id_pasien}",
         "bulan": "${bulan.text}",
         "tahun": "${tahun.text}",
         "id_dokter": "${id_doctor}"
       });
     } else {
-      var url = link + "RiwayatECGuntukDokter.php";
+      var url = link + "RiwayatECGkususD.php";
       response = await http.post(url, body: {
-        "id_dokter": "${id_user}",
+        "id_dokter": "${id_doctor}",
         "bulan": "${bulan.text}",
-        "tahun": "${tahun.text}"
+        "tahun": "${tahun.text}",
+        "id_pasien": "${id_pasien}"
       });
     }
     print(response);

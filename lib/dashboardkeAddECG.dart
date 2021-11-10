@@ -177,7 +177,7 @@ class _dashADDECGPage extends State<dashADDECG> {
 
       try {
         Map map = {
-          "id_user": id_user.toString(),
+          "id_pasien": id_pasien.toString(),
           "id_dokter": id_doctor.toString(),
           "data": json_de,
           "tanggal": tanggal_,

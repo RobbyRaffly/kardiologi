@@ -172,7 +172,9 @@ class _IsiProfil_Dokter extends State<IsiProfil_Dokter> {
       Fluttertoast.showToast(msg: "Data Berhasil Disimpan");
       usernameBaru = usernameBaru;
       role = "1";
+      id_doctor = respon['id_dokter'];
       name = namaLengkap.text;
+      print("id dokter= " + id_doctor.toString());
       Navigator.of(context).push(
         MaterialPageRoute(
           builder: (context) => HomePasien(),

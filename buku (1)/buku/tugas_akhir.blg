@@ -7,56 +7,46 @@ Reallocating 'name_of_file' (item size: 1) to 3 items.
 Database file #1: TA.bib
 Warning--empty journal in cit:19
 Warning--empty journal in cit:12
-Warning--empty journal in cit:15
 Warning--empty journal in cit:13
 Warning--empty journal in cit:14
 Warning--empty journal in cit:10
 Warning--empty journal in cit:22
 Warning--empty journal in cit:20
 Warning--empty year in cit:20
-Warning--empty journal in cit:11
-Warning--empty journal in cit:18
-Warning--empty journal in cit:16
-Warning--empty journal in cit:17
-Warning--empty journal in cit:8
-Warning--empty year in cit:8
-Warning--empty journal in cit:9
-Warning--empty journal in cit:21
-Warning--empty year in cit:21
 Too many commas in name 1 of "Zhe Yang, Qihao Zhou1, Lei Lei, Kan Zheng, Wei Xiang" for entry cit:7
 while executing---line 969 of file ieeetr.bst
 Too many commas in name 1 of "Zhe Yang, Qihao Zhou1, Lei Lei, Kan Zheng, Wei Xiang" for entry cit:7
 while executing---line 969 of file ieeetr.bst
-You've used 22 entries,
+You've used 13 entries,
             1876 wiz_defined-function locations,
-            575 strings with 6927 characters,
-and the built_in function-call counts, 3247 in all, are:
-= -- 308
-> -- 88
+            540 strings with 5856 characters,
+and the built_in function-call counts, 1985 in all, are:
+= -- 191
+> -- 52
 < -- 0
-+ -- 44
-- -- 22
-* -- 161
-:= -- 509
-add.period$ -- 39
-call.type$ -- 22
-change.case$ -- 22
++ -- 26
+- -- 13
+* -- 97
+:= -- 310
+add.period$ -- 23
+call.type$ -- 13
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 40
-duplicate$ -- 181
-empty$ -- 393
-format.name$ -- 22
-if$ -- 776
+cite$ -- 21
+duplicate$ -- 105
+empty$ -- 239
+format.name$ -- 13
+if$ -- 478
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 17
-newline$ -- 89
-num.names$ -- 22
-pop$ -- 118
+int.to.str$ -- 13
+missing$ -- 9
+newline$ -- 53
+num.names$ -- 13
+pop$ -- 69
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 44
+skip$ -- 33
 stack$ -- 0
 substring$ -- 32
 swap$ -- 10
@@ -64,8 +54,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 18
-while$ -- 25
-width$ -- 24
-write$ -- 198
+warning$ -- 8
+while$ -- 16
+width$ -- 15
+write$ -- 119
 (There were 2 error messages)
